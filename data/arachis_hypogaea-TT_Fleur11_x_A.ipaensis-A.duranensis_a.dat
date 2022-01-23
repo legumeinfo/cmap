@@ -1,0 +1,394 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	feature_dbxref_name	feature_dbxref_url	is_landmark	feature_attributes
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC2E05_A	TC2E05_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Pod wall weight per plant 1-1	Pod wall weight per plant 1-1	SHW_WW_a01	0	9	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Pods per plant 2-1	Pods per plant 2-1	PN_WW_a01	0	26	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Pod weight per plant 1-1	Pod weight per plant 1-1	PW_WW_a01	1	10	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_gi-0919_A	gi-0919_A		5.7	5.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_IPAHM287_A	IPAHM287_A		12.9	12.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC23F04_A2	TC23F04_A2		34.9	34.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq16G08_A	Seq16G08_A		44.8	44.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_RN9A05_A	RN9A05_A		56.4	56.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_RN23A07_A	RN23A07_A		56.4	56.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq4B09_A	Seq4B09_A		65.6	65.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_seq13A10_A	seq13A10_A		67.9	67.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC2D06_A	TC2D06_A		71.3	71.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq3E05_A	Seq3E05_A		75.6	75.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq19C03_A	Seq19C03_A		77	77	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Ah-193_A	Ah-193_A		78.1	78.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC1D01_A	TC1D01_A		78.1	78.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Ah-594_A3	Ah-594_A3		78.1	78.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC4H02_A	TC4H02_A		79.2	79.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Ah-21_A	Ah-21_A		80.9	80.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Ah-126_A	Ah-126_A		82.6	82.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC31C09_A	TC31C09_A		88.3	88.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_RN11A07_A	RN11A07_A		90.6	90.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Ai119C17_A	Ai119C17_A		91.7	91.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC38C01_A	TC38C01_A		96.3	96.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq4D04_A	Seq4D04_A		106.7	106.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC20E08_A	TC20E08_A		106.7	106.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq4A06_A	Seq4A06_A		106.7	106.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq18A08_A2	Seq18A08_A2		108	108	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC3H02_A	TC3H02_A		124.4	124.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_TC16A10_A	TC16A10_A		137.2	137.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_Seq8E12_A	Seq8E12_A		138.3	138.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01	A01	0	145.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A01_RN17F12_A	RN17F12_A		145.2	145.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_seq11H01_A	seq11H01_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_PM230_A	PM230_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Pod beak 1-2	Pod beak 1-2	PB_WL_a02	1	65	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_TC28B01_A	TC28B01_A		4.6	4.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_PM032_A	PM032_A		6.9	6.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_TC4F12_A	TC4F12_A		15	15	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_RM13A09_A	RM13A09_A		38	38	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq18B11_A	Seq18B11_A		40.5	40.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq11G03_A	Seq11G03_A		42.8	42.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Pod beak 1-1	Pod beak 1-1	PB_WW_a02	43	68	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Pod constriction 1-1	Pod constriction 1-1	PC_WW_a02	43	68	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq11G07_A	Seq11G07_A		43.9	43.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq1B09_A	Seq1B09_A		43.9	43.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_IPAHM406_A	IPAHM406_A		43.9	43.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq12E03_A	Seq12E03_A		45	45	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_RM2H10_A	RM2H10_A		47.3	47.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Ag39_A	Ag39_A		51.9	51.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_TC1E01_A	TC1E01_A		57.6	57.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Pod harvest index 1-1	Pod harvest index 1-1	HI_WW_a02	67	76.1	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Haulm weight 1-1	Haulm weight 1-1	HW_WW_a02	68	76.1	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_RI2A06_A	RI2A06_A		70.4	70.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Drought tolerance 1-5	Drought tolerance 1-5	STI-HW_a02	73	76.1	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Haulm weight 1-2	Haulm weight 1-2	HW_WL_a02	73	76.1	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Pod harvest index 1-2	Pod harvest index 1-2	HI_WL_a02	73	76.1	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02	A02	0	76.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A02_Seq2F05_A	Seq2F05_A		76.1	76.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC4G02_A	TC4G02_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Stature 1-1	Stature 1-1	GH_WW_a03	2	15	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_gi-0560_A	gi-0560_A		5.3	5.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq19H03_A1	Seq19H03_A1		7.9	7.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Ah-30_A	Ah-30_A		19.5	19.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC41C11_A	TC41C11_A		27.5	27.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq2C11_A	Seq2C11_A		32.1	32.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_PM003_A	PM003_A		33.2	33.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_PM201_A	PM201_A		40.1	40.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC0A01_A	TC0A01_A		42.4	42.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_PM042_A2	PM042_A2		45.8	45.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_gi-4925_A	gi-4925_A		61	61	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_PM238_A	PM238_A		67.9	67.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC2C07_A	TC2C07_A		69	69	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Ah-636_A	Ah-636_A		79.4	79.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq18G09_A2	Seq18G09_A2		86.3	86.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Ag140_A	Ag140_A		92	92	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC11E04_A	TC11E04_A		93.1	93.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC1E06_A	TC1E06_A		93.1	93.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC22G05_A	TC22G05_A		94.2	94.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq13E06A_A	Seq13E06A_A		95.3	95.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq3D09_A	Seq3D09_A		104.5	104.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_Seq4F10_A	Seq4F10_A		123.6	123.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03	A03	0	127.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A03_TC3E02_A	TC3E02_A		127.1	127.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_RN12E01_A	RN12E01_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC13G05_A	TC13G05_A		1.1	1.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Ah-569_A	Ah-569_A		11.5	11.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Ah-408_A	Ah-408_A		12.7	12.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_IPAHM108_A	IPAHM108_A		30.4	30.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_PM120_A	PM120_A		32.7	32.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Plant height 1-1	Plant height 1-1	PH_WW_a04	44	108	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC9E08_A2	TC9E08_A2		54.4	54.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC39B04_A	TC39B04_A		55.8	55.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Seq18A08_A3	Seq18A08_A3		58.7	58.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_gi-0832_A	gi-0832_A		60.1	60.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Seq3B10_A	Seq3B10_A		60.1	60.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_RN35B05_A	RN35B05_A		61.2	61.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_RM17H09_A	RM17H09_A		66.4	66.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_seq12E10_A	seq12E10_A		79.8	79.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC9E08_A1	TC9E08_A1		84.4	84.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_Ah-229_A	Ah-229_A		100.9	100.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC11B04_A1	TC11B04_A1		110.7	110.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04	A04	0	120.5	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A04_TC7G10_A	TC7G10_A		120.5	120.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_gi-0620_A	gi-0620_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Aboveground weight 1-1	Aboveground weight 1-1	TB_WW_a05	0	26	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Drought tolerance 1-12	Drought tolerance 1-12	STI-TB_a05	0	27	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Drought tolerance 1-6	Drought tolerance 1-6	STI-HW_a05	0	27	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Seeds per plant 1-1	Seeds per plant 1-1	SN_WW_a05	0	30	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Aboveground weight 1-2	Aboveground weight 1-2	TB_WL_a05	0	31	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Haulm weight 1-3	Haulm weight 1-3	HW_WL_a05	0	32	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Drought tolerance 1-9	Drought tolerance 1-9	STI-PW_a05	0	33	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Drought tolerance 1-11	Drought tolerance 1-11	STI-SW_a05	0	34	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Pods per plant 2-3	Pods per plant 2-3	PN_WW_a05	1	34	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Seq10H01A_A	Seq10H01A_A		4.6	4.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_gi-0385_A	gi-0385_A		4.6	4.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Drought tolerance 1-7	Drought tolerance 1-7	STI-PN_a05	4.6	33	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Ah-614_A	Ah-614_A		44.2	44.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Ah-742_A	Ah-742_A		54.6	54.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_TC19D09_A	TC19D09_A		60.3	60.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Seq10D04_A	Seq10D04_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_seq19E09_A	seq19E09_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_PM045_A	PM045_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Seq11E11_A	Seq11E11_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_TC6E01_A	TC6E01_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_TC22H12_A	TC22H12_A		63.7	63.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_TC3G05_A	TC3G05_A		64.8	64.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_seq8C10_A	seq8C10_A		72.8	72.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05	A05	0	75.2	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A05_Ah6-125_A	Ah6-125_A		75.2	75.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_AC2H11_A	AC2H11_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_TC3H07_A	TC3H07_A		2.3	2.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_RN31A05_A	RN31A05_A		10.3	10.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Seq4H06_A	Seq4H06_A		12.6	12.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_RN21H01_A	RN21H01_A		14.9	14.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Seq15D03_A	Seq15D03_A		14.9	14.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_PM035_A	PM035_A		17.2	17.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Seq18G09_A1	Seq18G09_A1		21.8	21.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Ah-20_A	Ah-20_A		29.8	29.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_TC9C06_A	TC9C06_A		34.4	34.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_TC11A04_A	TC11A04_A		39	39	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_TC1A02_A	TC1A02_A		39	39	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_TC19B03_A	TC19B03_A		46.3	46.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Seq18G01_A	Seq18G01_A		58.7	58.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_gi-0936_A	gi-0936_A		59.8	59.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_gi-0623_A	gi-0623_A		60.9	60.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06	A06	0	73.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A06_Seq19H03_A2	Seq19H03_A2		73.7	73.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_RN13D04_A	RN13D04_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed length 2-1	Seed length 2-1	SL_WW_a07	0	5	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod length 2-1	Pod length 2-1	PL_WW_a07	0	7	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed length 2-2	Seed length 2-2	SL_WL_a07	0	9	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed weight 2-1	Seed weight 2-1	HSW_WW_a07	0	10	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Drought tolerance 1-3	Drought tolerance 1-3	STI-HSW_a07	0	11	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed weight 2-2	Seed weight 2-2	HSW_WL_a07	0	12	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Drought tolerance 1-8	Drought tolerance 1-8	STI-PN_a07	0	13	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Drought tolerance 1-10	Drought tolerance 1-10	STI-SN_a07	0	21	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod constriction 1-2	Pod constriction 1-2	PC_WW_a07_1	0	107.1	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed width 1-1	Seed width 1-1	SWI_WW_a07_1	2	10	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed width 1-2	Seed width 1-2	SWI_WL_a07_1	2	11	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod width 1-2	Pod width 1-2	PWI_WL_a07	2	12	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod beak 1-4	Pod beak 1-4	PB_WL_a07	2	107	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod width 1-1	Pod width 1-1	PWI_WW_a07	2	107.1	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seq2E06_A	Seq2E06_A		3.7	3.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seq5D05_A	Seq5D05_A		12.6	12.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC23E04_A	TC23E04_A		14.9	14.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC22D09_A	TC22D09_A		18.3	18.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_PM042_A1	PM042_A1		21.7	21.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Stature 1-2	Stature 1-2	GH_WW_a07	33	58	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Plant height 1-2	Plant height 1-2	PH_WW_a07	35	63	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seq14D01_A	Seq14D01_A		42.1	42.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Ah-594_A2	Ah-594_A2		46.7	46.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_IPAHM290_A	IPAHM290_A		49	49	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_IPAHM123_A	IPAHM123_A		49	49	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC9H08_A	TC9H08_A		50.1	50.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_seq3A01_A	seq3A01_A		51.2	51.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seq3B08_A	Seq3B08_A		56.9	56.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC4G10_A	TC4G10_A		66.1	66.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod beak 1-3	Pod beak 1-3	PB_WW_a07	82	107.1	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Pod constriction 1-3	Pod constriction 1-3	PC_WW_a07_2	88	106	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed width 1-3	Seed width 1-3	SWI_WW_a07_2	88	106	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seed width 1-4	Seed width 1-4	SWI_WL_a07_2	88	106	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC38F01_A	TC38F01_A		92.1	92.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_Seq2A06_A	Seq2A06_A		101.3	101.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_RM2D04_A	RM2D04_A		107.1	107.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07	A07	0	107.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A07_TC6G09_A	TC6G09_A		107.1	107.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC9B08_A	TC9B08_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_RM7E04_A	RM7E04_A		4.7	4.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC3B05_A	TC3B05_A		7	7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Seed length 2-3	Seed length 2-3	SL_WW_a08	23.7	96.1	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC7A02_A	TC7A02_A		28.8	28.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Pod beak 1-5	Pod beak 1-5	PB_WW_a08	29.7	62.7	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Pod width 1-3	Pod width 1-3	PWI_WW_a08	30.7	62.7	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC3B04_A	TC3B04_A		32.2	32.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_seq3A08_A	seq3A08_A		39.1	39.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_seq2G03_A	seq2G03_A		41.4	41.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_RN22A12_A	RN22A12_A		41.4	41.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_RM5G08_A	RM5G08_A		59.2	59.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_RN18H05_A	RN18H05_A		64.9	64.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Ad90F2_A	Ad90F2_A		70.6	70.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC9F10_A	TC9F10_A		70.6	70.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC22C01_A	TC22C01_A		76.3	76.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Pod constriction 1-4	Pod constriction 1-4	PC_WW_a08	81.7	96.1	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_Pod length 2-2	Pod length 2-2	PL_WL_a08	81.7	96.1	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_TC1E05_A	TC1E05_A		90.3	90.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_IPAHM229_A	IPAHM229_A		96.1	96.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08	A08	0	97.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A08_IPAHM540_A	IPAHM540_A		97.3	97.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_PM015_A2	PM015_A2		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_TC9B07_A	TC9B07_A		9.5	9.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_Pod length 2-3	Pod length 2-3	PL_WL_a09	9.5	71.5	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_Seed length 2-4	Seed length 2-4	SL_WW_a09	9.5	71.5	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_seq17E03_A	seq17E03_A		11.8	11.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_TC1D02_A	TC1D02_A		17.5	17.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_seq9B04_A	seq9B04_A		29.1	29.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_seq4G02_A	seq4G02_A		45.6	45.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_TC5D06_A	TC5D06_A		49	49	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_Pod beak 1-6	Pod beak 1-6	PB_WW_a09	55.5	88.5	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_RN25B01_A	RN25B01_A		60.7	60.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_Pod constriction 1-5	Pod constriction 1-5	PC_WW_a09	64.5	86.5	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_PM170_A	PM170_A		74.8	74.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_RN35H04_A	RN35H04_A		75.9	75.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_gi-1107_A	gi-1107_A		96.1	96.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09	A09	0	99.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A09_seq8D09_A	seq8D09_A		99.7	99.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_TC38G04_A	TC38G04_A		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Pod constriction 1-6	Pod constriction 1-6	PC_WW_a10	21	81.3	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_TC11B04_A2	TC11B04_A2		31.2	31.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Pod width 1-4	Pod width 1-4	PWI_WW_a10	37	67	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Pod width 1-5	Pod width 1-5	PWI_WL_a10	40	63	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_TC1G04_A	TC1G04_A		40.5	40.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Seq4H11_A1	Seq4H11_A1		47.4	47.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Seq14F05_A	Seq14F05_A		55.4	55.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_AC2B03_A	AC2B03_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_TC23F04_A1	TC23F04_A1		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_AC3C02_A	AC3C02_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_TC23D04_A	TC23D04_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_seq12F07_A	seq12F07_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_AC1G11_A	AC1G11_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_seq11D04_A	seq11D04_A		57.7	57.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_Seq9F01_A	Seq9F01_A		59.4	59.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_PM145_A	PM145_A		68.1	68.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10	A10	0	83.3	TT_Fleur11_x_A.ipaensis-A.duranensis_a_A10_AC3F07_A	AC3F07_A		83.3	83.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Seq16G08_B	Seq16G08_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_IPAHM037_B	IPAHM037_B		36.4	36.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_seq18B08_B	seq18B08_B		51.8	51.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_TC20D05_B	TC20D05_B		59.9	59.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_seq17E01_B	seq17E01_B		59.9	59.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Ap152_B	Ap152_B		59.9	59.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_TC7D03_B	TC7D03_B		65.6	65.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_TC1A08_B	TC1A08_B		67.9	67.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Ah-3_B	Ah-3_B		69	69	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_TC16A10_B	TC16A10_B		69	69	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Seq13A07_B	Seq13A07_B		70.1	70.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_TC7H02_B	TC7H02_B		71.2	71.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Ah-126_B	Ah-126_B		72.3	72.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Seq4A06_B	Seq4A06_B		75.7	75.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_Seq19H03_B2	Seq19H03_B2		78	78	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_seq9E08_B1	seq9E08_B1		88.7	88.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01	B01	0	116.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B01_IPAHM171c_B	IPAHM171c_B		116.1	116.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_TC1B02_B	TC1B02_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seed weight 2-3	Seed weight 2-3	HSW_WW_b02	0	7.9	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seed width 1-5	Seed width 1-5	SWI_WW_b02	0	7.9	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Drought tolerance 1-4	Drought tolerance 1-4	STI-HSW_b02	0	8.9	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Pod weight 1-2	Pod weight 1-2	HPW_WL_b02	0	8.9	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Pod width 1-6	Pod width 1-6	PWI_WW_b02	0	8.9	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Pod width 1-7	Pod width 1-7	PWI_WL_b02	0	8.9	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seed width 1-6	Seed width 1-6	SWI_WL_b02	0	9.9	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Pod weight 1-1	Pod weight 1-1	HPW_WW_b02	0	10.9	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seed weight 2-4	Seed weight 2-4	HSW_WL_b02	0	10.9	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Pod beak 1-10	Pod beak 1-10	PB_WL_b02	0	32.9	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Drought tolerance 1-1	Drought tolerance 1-1	STI-HPW_b02	1	8.9	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_PM032_B	PM032_B		7.2	7.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seq1B09_B	Seq1B09_B		15.2	15.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_AC2C05_B	AC2C05_B		15.2	15.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seq2G04_B	Seq2G04_B		23.3	23.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_RI1F06_B	RI1F06_B		34.9	34.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_seq14D11_B2	seq14D11_B2		37.7	37.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_TC13E05_B	TC13E05_B		52.6	52.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_TC1E01_B	TC1E01_B		66	66	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Ag39_B	Ag39_B		66.8	66.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_RI2A06_B	RI2A06_B		76	76	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_gi-0342_B	gi-0342_B		76	76	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seq2F05_B	Seq2F05_B		77.1	77.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02	B02	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B02_Seq14G03_B	Seq14G03_B		82.9	82.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_Seq19D09_B	Seq19D09_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_TC7E04_B	TC7E04_B		2.3	2.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_IPAHM093_B	IPAHM093_B		13.9	13.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_seq14C11_B	seq14C11_B		26.8	26.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_PM003_B	PM003_B		48.6	48.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_RM14H12_B	RM14H12_B		53.2	53.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_Seq19H03_B1	Seq19H03_B1		54.3	54.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_seq9E08_B2	seq9E08_B2		54.3	54.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_PM201_B	PM201_B		55.4	55.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_PM238_B	PM238_B		74.6	74.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_AC1G11_B	AC1G11_B		75.6	75.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03	B03	0	75.6	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B03_Pod maturity, synchronicity 2-1	Pod maturity, synchronicity 2-1	PMAT_WW_b03	27	48.6	QTL_development			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_TC13G05_B	TC13G05_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_IPAHM108_B	IPAHM108_B		32.7	32.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_Plant height 1-3	Plant height 1-3	PH_WW_b04	61.6	77.2	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_TC12A01_B	TC12A01_B		65.4	65.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_Stature 1-3	Stature 1-3	GH_WW_b04	66.2	77.2	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_PM035_B	PM035_B		74.6	74.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_gi-0832_B	gi-0832_B		77.2	77.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04	B04	0	100.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B04_Seq4H11_B	Seq4H11_B		100.4	100.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_TC19D09_B	TC19D09_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Stature 1-4	Stature 1-4	GH_WW_b05	0	7	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Pod width 1-8	Pod width 1-8	PWI_WW_b05	0	43	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Seed width 1-7	Seed width 1-7	SWI_WW_b05	0	47.5	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Pod weight 1-3	Pod weight 1-3	HPW_WW_b05	0	50	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Drought tolerance 1-2	Drought tolerance 1-2	STI-HPW_b05	0	51	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Pod weight 1-4	Pod weight 1-4	HPW_WL_b05	0	52	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Pod width 1-9	Pod width 1-9	PWI_WL_b05	1	39	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Seed width 1-8	Seed width 1-8	SWI_WL_b05	4	46	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_Seed weight per plant 1-1	Seed weight per plant 1-1	SW_WW_b05	6	57.9	QTL_yield			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_PM050_B	PM050_B		18.1	18.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_IPAHM354_B	IPAHM354_B		21.5	21.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_seq19D06_B	seq19D06_B		39.4	39.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_TC22F10_B	TC22F10_B		45.2	45.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_AC2C02_B1	AC2C02_B1		47.5	47.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_TC6E01_B	TC6E01_B		49.8	49.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05	B05	0	57.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B05_TC19E01_B	TC19E01_B		57.9	57.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_AC2C02_B2	AC2C02_B2		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Stature 1-5	Stature 1-5	GH_WW_b06	7	34	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Seed width 1-9	Seed width 1-9	SWI_WL_b06	8	62	QTL_seed			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Pod beak 1-8	Pod beak 1-8	PB_WL_b06	13	87	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Pod beak 1-7	Pod beak 1-7	PB_WW_b06	14	80	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Pod width 1-10	Pod width 1-10	PWI_WW_b06	16	83	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC3H07_B	TC3H07_B		21.7	21.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Pod width 1-11	Pod width 1-11	PWI_WL_b06	22	64	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_PM137_B	PM137_B		34.5	34.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC24B05_B	TC24B05_B		42.6	42.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC19F05_B	TC19F05_B		44.9	44.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_seq19A05_B	seq19A05_B		48.3	48.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_seq3C02_B1	seq3C02_B1		56.4	56.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_PM210_B	PM210_B		69.1	69.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC1A02_B	TC1A02_B		77.4	77.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC11A04_B	TC11A04_B		77.4	77.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Aboveground weight 1-3	Aboveground weight 1-3	TB_WL_b06	93	104.4	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Haulm weight 1-4	Haulm weight 1-4	HW_WL_b06	93	104.4	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_TC4D09_B	TC4D09_B		93.9	93.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Drought tolerance 1-13	Drought tolerance 1-13	STI-TB_b06	94	104.4	QTL_stress-tolerance			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Seq18G01_B	Seq18G01_B		104.4	104.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06	B06	0	104.4	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B06_Pod maturity, synchronicity 2-2	Pod maturity, synchronicity 2-2	PMAT_WL_b06	25.8	91.4	QTL_development			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_Seq2E06_B	Seq2E06_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC41A11_B	TC41A11_B		8.2	8.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC41A11_1_B	TC41A11_1_B		8.2	8.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_Seq5D05_B	Seq5D05_B		16.6	16.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_First flower, peanut 1-1	First flower, peanut 1-1	DFL_WW_b07	21	79	QTL_development			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_Seq15C10_B	Seq15C10_B		35.3	35.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC4G10_B	TC4G10_B		54.4	54.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_seq14D11_B1	seq14D11_B1		65.9	65.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_seq3C02_B2	seq3C02_B2		73	73	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC3B05_B	TC3B05_B		82.2	82.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_RM7E04_B	RM7E04_B		86.8	86.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC7A02_B	TC7A02_B		92.5	92.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC3B04_B	TC3B04_B		92.5	92.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07	B07	0	111.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B07_TC40C03_B2	TC40C03_B2		111.7	111.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_IPAHM406_B	IPAHM406_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_Ad90F2_B	Ad90F2_B		7	7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC20B05_B	TC20B05_B		8.1	8.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC6H03_B	TC6H03_B		10.4	10.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_Plant height 1-4	Plant height 1-4	PH_WW_b08	12	22.8	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_AC2C12_B	AC2C12_B		12.7	12.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_IPAHM540_B	IPAHM540_B		15	15	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_IPAHM177_B	IPAHM177_B		17.3	17.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_IPAHM229_B	IPAHM229_B		18.4	18.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_Ai123M2_B	Ai123M2_B		19.5	19.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC40E08_B	TC40E08_B		19.5	19.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC24E01_B	TC24E01_B		19.5	19.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_IPAHM123_B	IPAHM123_B		20.6	20.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC38C01_B	TC38C01_B		27.5	27.5	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08	B08	0	29.8	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B08_TC31E08_B	TC31E08_B		29.8	29.8	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_Ai119C17_B	Ai119C17_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_TC1D02_B	TC1D02_B		4.6	4.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_Seq14H06_B	Seq14H06_B		17.4	17.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_gi-1107_B	gi-1107_B		23.1	23.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_Lec-1_B	Lec-1_B		25.4	25.4	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_Seq7G02_B	Seq7G02_B		34.6	34.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_seq4G02_B	seq4G02_B		60.6	60.6	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09	B09	0	61.7	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B09_TC25G11_B	TC25G11_B		61.7	61.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC38F01_B	TC38F01_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC22G05_B	TC22G05_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_Stature 1-6	Stature 1-6	GH_WW_b10	0	9	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_Plant height 1-5	Plant height 1-5	PH_WW_b10	0	16	QTL_whole-plant			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_Seq7H06_B	Seq7H06_B		34	34	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_AC2B03_B	AC2B03_B		52.7	52.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC31C09_B	TC31C09_B		59.9	59.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_IPAHM689_B	IPAHM689_B		64	64	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC23F04_B	TC23F04_B		64	64	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC3E05_B	TC3E05_B		66.7	66.7	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_AC3F07_B	AC3F07_B		78.3	78.3	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10	B10	0	82.9	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B10_TC23H10_B	TC23H10_B		82.9	82.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_TC3E02_B	TC3E02_B		0	0	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_Pod beak 1-9	Pod beak 1-9	PB_WW_b11	0	13	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_Pod constriction 1-7	Pod constriction 1-7	PC_WW_b11	3	12	QTL_pod			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_TC2A02_B	TC2A02_B		8.2	8.2	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_TC29H08_B	TC29H08_B		10.9	10.9	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_TC23E04_B	TC23E04_B		15.1	15.1	SSR			0	
+TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11	B11	0	15.1	TT_Fleur11_x_A.ipaensis-A.duranensis_a_B11_Pod maturity, synchronicity 2-3	Pod maturity, synchronicity 2-3	PMAT_WL_b11	2.5	14.5	QTL_development			0	

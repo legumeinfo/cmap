@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+<!-- This file contains data from CMap (http://gmod.org/wiki/CMap) -->
+<!-- From the LIS data source -->
+<!-- Created on Sun Jan 23 11:54:50 2022 -->
+
+
+<cmap_export>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>930</xref_id>
+    <xref_name>Go to region in Soybase GBrowse</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^GmJGI8x&quot;)%]
+http://soybase.org/gbrowse/cgi-bin/gbrowse/gmax1.01/?name=[%object.map_name%]%3A[%object.feature_start%]..[%object.feature_stop%]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>931</xref_id>
+    <xref_name>Go to region in Kazusa GBrowse</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^LjKazusa200905&quot;)%]
+http://gsv.kazusa.or.jp/cgi-bin/gb2/gbrowse/lotus/?name=[%object.map_name.replace('LjChr','Chr')%]%3A[%object.feature_start%]..[%object.feature_stop%]
+[% END %]
+</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>934</xref_id>
+    <xref_name>View BES for Clone in LIS</xref_name>
+    <xref_url>[% FOREACH alias = object.aliases; %]
+[% IF alias.match(&quot;AHT1B5RGH&quot;) %]  
+http://velarde.ncgr.org:7777/lisg/seqlist.html?seq_name_type=clone_id&amp;seq_name=[% alias %]
+[% END %]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>935</xref_id>
+    <xref_name>View QTL details</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^Ara&quot;) &amp;&amp; object.feature_type_acc.match(&quot;^QTL&quot;) %]
+ http://peanutbase.org/feature/Arachis/hypogaea/QTL/arahy.[% object.feature_name.replace(' ','-') | uri %]
+[% END %]
+</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>936</xref_id>
+    <xref_name>View QTL details</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^Pv&quot;) &amp;&amp; object.feature_type_acc.match(&quot;^QTL&quot;) %]
+http://legumeinfo.org/feature/Phaseolus/vulgaris/QTL/phavu.[%object.feature_name.replace(' ','-') %]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>939</xref_id>
+    <xref_name>View in Missouri Genome Browser</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^GmJGI8x&quot;)%]
+http://genomebrowser.missouri.edu/cgi-bin/hgTracks?hgsid=5448&amp;clade=plant&amp;org=soybean&amp;db=gm101&amp;position=[%object.map_name%]%3A[%object.feature_start.replace('\\.0*$','')%]..[%object.feature_stop.replace('\\.0*$','')%]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>940</xref_id>
+    <xref_name>View at Phytozome</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^GmJGI8x&quot;)%]
+http://www.phytozome.net/cgi-bin/gbrowse/soybean/?name=[%object.map_name%]%3A[%object.feature_start%]..[%object.feature_stop%]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>941</xref_id>
+    <xref_name>View QTL Details</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^TT_&quot;) &amp;&amp; object.feature_type_acc.match(&quot;^QTL&quot;) %]
+ http://peanutbase.org/feature/Arachis/hypogaea/QTL/arahy.[% object.feature_name.replace(' ','-') | uri %]
+[% END %]
+</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>942</xref_id>
+    <xref_name>View QTL Details</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^AA_&quot;) &amp;&amp; object.feature_type_acc.match(&quot;^QTL&quot;) %]
+ http://peanutbase.org/feature/Arachis/hypogaea/QTL/arahy.[% object.feature_name.replace(' ','-') | uri %]
+[% END %]
+</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>943</xref_id>
+    <xref_name>View QTL Details</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^BB_&quot;) &amp;&amp; object.feature_type_acc.match(&quot;^QTL&quot;) %]
+ http://peanutbase.org/feature/Arachis/hypogaea/QTL/arahy.[% object.feature_name.replace(' ','-') | uri %]
+[% END %]
+</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>2</display_order>
+    <xref_id>938</xref_id>
+    <xref_name>View in HapMap Mt3.0 GBrowse</xref_name>
+    <xref_url>[% IF object.feature_acc.match(&quot;^Mt3.0.*Chr&quot;)%]
+http://www.medicagohapmap.org/fgb2/gbrowse/mt30/?name=[%object.map_name.replace('MtChr','chr')%]%3A[%object.feature_start%]..[%object.feature_stop%]
+[% END %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>932</xref_id>
+    <xref_name>View map in CMTV</xref_name>
+    <xref_url>http://velarde.ncgr.org:7070/isys/launch?svc=org.ncgr.cmtv.isys.CompMapViewerService%40--services%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2FSoybaseServiceRegistry.xml%40--style%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2FSoybaseMapDisplay.xml%40--par%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2Fsoybase_trait_colors.txt%40http%3A%2F%2Fcmap.comparative-legumes.org%2Fcgi-bin%2Fcmap%2Fdownload_data%3Fformat%3Dtab%26download%3D1%26map_acc%3D[% object.map_acc %]</xref_url>
+  </cmap_xref>
+  <cmap_xref>
+    <display_order>1</display_order>
+    <xref_id>933</xref_id>
+    <xref_name>View map set in CMTV</xref_name>
+    <xref_url>http://velarde.ncgr.org:7070/isys/launch?svc=org.ncgr.cmtv.isys.CompMapViewerService%40--no_graphic%40--services%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2FSoybaseServiceRegistry.xml%40--style%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2FSoybaseMapDisplay.xml%40--par%40http%3A%2F%2Fvelarde.ncgr.org%3A7777%2Fcmtv%2Fconf%2Fsoybase_trait_colors.txt%40http%3A%2F%2Fcmap.comparative-legumes.org%2Fcgi-bin%2Fcmap%2Fdownload_data%3Fformat%3Dtab%26download%3D1%26map_set_acc%3D[% object.map_set_acc %]</xref_url>
+  </cmap_xref>
+  <dump_date>Sun Jan 23 11:54:50 2022</dump_date>
+</cmap_export>

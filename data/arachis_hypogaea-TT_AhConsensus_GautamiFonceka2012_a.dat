@@ -1,0 +1,898 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	feature_dbxref_name	feature_dbxref_url	is_landmark	feature_attributes
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq14A7	seq14A7		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq3B5	seq3B5		2.6	2.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq2H12	seq2H12		20.5	20.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2350	GM2350		21.37	21.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2724a.A01	GM2724a.A01	GM2724a	24.67	24.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2233b	GM2233b		36.87	36.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GA35.A01	GA35.A01	GA35	41.14	41.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2724b.A01	GM2724b.A01	GM2724b	45.55	45.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM1971b	GM1971b		50.9	50.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_RN17F12	RN17F12		52.82	52.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC16A10.A01	Ah3TC16A10.A01	Ah3TC16A10	56.32	56.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq8E12	seq8E12		56.32	56.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC3H02	TC3H02		62.27	62.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2723	GM2723		66.07	66.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM1971.A01	GM1971.A01	GM1971	67.77	67.77	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2724.A01	GM2724.A01	GM2724	67.77	67.77	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC27H12	Ah3TC27H12		69.14	69.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC20E08.A01	Ah3TC20E08.A01	Ah3TC20E08	71.44	71.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq18A08_A2	seq18A08_A2		71.44	71.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq4A6.A01	seq4A6.A01	seq4A6	71.44	71.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq4D4	seq4D4		71.44	71.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ai123M2.A01	Ai123M2.A01	Ai123M2	74.34	74.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq4H11_A2	seq4H11_A2		75.04	75.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC7H09	TC7H09		76.34	76.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah193	Ah193		76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC36D11	Ah3TC36D11		76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah594_A3	Ah594_A3		76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq19C3.A01	seq19C3.A01	seq19C3	76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq3E05	seq3E05		76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC1D01	TC1D01		76.94	76.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM641	GM641		79.53	79.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah21	Ah21		84.12	84.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM1661	GM1661		84.12	84.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM1694	GM1694		84.12	84.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC4H02	TC4H02		85.65	85.65	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM1992	GM1992		86.25	86.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM672	GM672		86.25	86.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2602	GM2602		90.82	90.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2603	GM2603		91.57	91.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GA110	GA110		93.26	93.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq15E12	seq15E12		96.26	96.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq16F10	seq16F10		97.26	97.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq4F01	seq4F01		97.26	97.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC2D06	TC2D06		97.46	97.46	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_ARS729	ARS729		97.86	97.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_ARS731	ARS731		97.86	97.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_ARS721	ARS721		98.16	98.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq12F7.A01	seq12F7.A01	seq12F7	100.26	100.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC4G05	TC4G05		103.57	103.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_S1	S1		108.04	108.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM613	GM613		110.34	110.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GA1	GA1		120.14	120.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq13A10.A01	seq13A10.A01	seq13A10	120.14	120.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah126.A01	Ah126.A01	Ah126	120.74	120.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq4B09	seq4B09		120.74	120.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ad92L24	Ad92L24		121.34	121.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_RN11A07	RN11A07		121.94	121.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ai119C17.A01	Ai119C17.A01	Ai119C17	122.54	122.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC38C01.A01	Ah3TC38C01.A01	Ah3TC38C01	123.14	123.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_IPAHM531.A01	IPAHM531.A01	IPAHM531	124.54	124.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_RN23A07	RN23A07		130.64	130.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_RN9A05	RN9A05		130.64	130.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_seq16G8.A01	seq16G8.A01	seq16G8	135.24	135.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_Ah3TC23F04_A2	Ah3TC23F04_A2		139.14	139.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_IPAHM177.A01	IPAHM177.A01	IPAHM177	139.94	139.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_IPAHM287.A01	IPAHM287.A01	IPAHM287	150.74	150.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC2E05.A01	TC2E05.A01	TC2E05	162.91	162.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_gi-0919	gi-0919		164.51	164.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_TC4E10.A01	TC4E10.A01	TC4E10	171.01	171.01	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A01	A01	0	175.07	TT_AhConsensus_GautamiFonceka2012_a_A01_GM2062	GM2062		175.07	175.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_RI2A06.A02	RI2A06.A02	RI2A06	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq2F5.A02	seq2F5.A02	seq2F5	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_Ag39.A02	Ag39.A02	Ag39	2.3	2.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_RM2H10	RM2H10		5.1	5.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq12E3	seq12E3		16.7	16.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_IPAHM406.A02	IPAHM406.A02	IPAHM406	17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_RI1F06.A02	RI1F06.A02	RI1F06	17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_RM13A09	RM13A09		17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq11G3	seq11G3		17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq18B11	seq18B11		17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq1B9.A02	seq1B9.A02	seq1B9	34	34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq11G7	seq11G7		36.2	36.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_TC4F12	TC4F12		41.88	41.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_IPAHM254	IPAHM254		42.38	42.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_GA8	GA8		42.44	42.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_GM695	GM695		43.99	43.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_Ah3TC28B01	Ah3TC28B01		44.04	44.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_PM32.A02	PM32.A02	PM32	44.04	44.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_PM230	PM230		47.54	47.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq11H1.A02	seq11H1.A02	seq11H1	50.44	50.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_seq14F4	seq14F4		59.54	59.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_TC1E01.A02	TC1E01.A02	TC1E01	86.94	86.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A02	A02	0	91.59	TT_AhConsensus_GautamiFonceka2012_a_A02_GM1469	GM1469		91.59	91.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2325	GM2325		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2007	GM2007		19.4	19.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC7E04.A03	TC7E04.A03	TC7E04	31.75	31.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2691	GM2691		58.95	58.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2347	GM2347		63.5	63.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah3TC40A02	Ah3TC40A02		75.69	75.69	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC3E02.A03	TC3E02.A03	TC3E02	76.29	76.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq4F10	seq4F10		77.89	77.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq9H8	seq9H8		81.83	81.83	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq3D9	seq3D9		87.68	87.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah3TC22G05.A03	Ah3TC22G05.A03	Ah3TC22G05	91.68	91.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq13E6A	seq13E6A		91.68	91.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ag140	Ag140		92.28	92.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC11E04	TC11E04		92.28	92.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC1E06.A03	TC1E06.A03	TC1E06	92.28	92.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq19D9.A03	seq19D9.A03	seq19D9	92.44	92.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq18G9_A2	seq18G9_A2		110.07	110.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah3TC39C01	Ah3TC39C01		111.87	111.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah636	Ah636		111.87	111.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq4F7	seq4F7		126.1	126.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq19G7	seq19G7		130.8	130.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM434.A03	PM434.A03	PM434	138.6	138.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM1717	GM1717		142.62	142.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq18A5	seq18A5		146.49	146.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM745	GM745		149.89	149.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq18A5b	seq18A5b		149.89	149.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM238.A03	PM238.A03	PM238	157.59	157.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq15F12	seq15F12		158.4	158.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_gi-4925	gi-4925		168.2	168.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2402	GM2402		168.37	168.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah4-04	Ah4-04		178.97	178.97	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS749	ARS749		178.97	178.97	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_AC3D07	AC3D07		179.47	179.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM42_A2	PM42_A2		185.02	185.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC0A01	TC0A01		186.22	186.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS761	ARS761		187.52	187.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM15	PM15		187.52	187.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS744	ARS744		187.82	187.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM201.A03	PM201.A03	PM201	187.82	187.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC0A02	TC0A02		188.92	188.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_PM3.A03	PM3.A03	PM3	190.43	190.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq2C11.A03	seq2C11.A03	seq2C11	190.43	190.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_IPAHM288	IPAHM288		194.36	194.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_RM15H7	RM15H7		197.88	197.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS758.A03	ARS758.A03	ARS758	198.58	198.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC2C07	TC2C07		199.7	199.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC11F12.A03	TC11F12.A03	TC11F12	205	205	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2027	GM2027		205.6	205.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah3TC41C11	Ah3TC41C11		208.73	208.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM618	GM618		209.56	209.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah30	Ah30		209.64	209.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC4F02	TC4F02		223.43	223.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2215	GM2215		231.73	231.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS747	ARS747		232.43	232.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2528	GM2528		235.64	235.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq19H3_A1	seq19H3_A1		237.35	237.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_IPAHM295	IPAHM295		239.1	239.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_gi-0560	gi-0560		240.23	240.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_ARS736	ARS736		240.9	240.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_seq13E6	seq13E6		244	244	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_TC4G02.A03	TC4G02.A03	TC4G02	249.39	249.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM2206	GM2206		252.1	252.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_GM1954.A03	GM1954.A03	GM1954	254.71	254.71	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_Ah3TC31H02	Ah3TC31H02		256.43	256.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A03	A03	0	272.52	TT_AhConsensus_GautamiFonceka2012_a_A03_IPAHM103.A03	IPAHM103.A03	IPAHM103	272.52	272.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1062	GM1062		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq2C10	seq2C10		7.68	7.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_PM427	PM427		8.7	8.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_ARS772	ARS772		10.08	10.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC7G10	TC7G10		12.58	12.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_PM375	PM375		15.58	15.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_LG111	LG111		16.78	16.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ap40	Ap40		17.38	17.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM736	GM736		18.58	18.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM629	GM629		19.38	19.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM890	GM890		23.23	23.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_S109	S109		23.73	23.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC3H07.A04	TC3H07.A04	TC3H07	25.8	25.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2246	GM2246		26.43	26.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC11B04.A04	TC11B04.A04	TC11B04	31.6	31.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_ARS726	ARS726		34.81	34.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1720	GM1720		37.49	37.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah229	Ah229		40.22	40.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_ARS811	ARS811		45.64	45.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_IPAHM105.A04	IPAHM105.A04	IPAHM105	45.64	45.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2589.A04	GM2589.A04	GM2589	48.36	48.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1897	GM1897		48.89	48.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_S118.A04	S118.A04	S118	57.3	57.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1867	GM1867		57.35	57.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM955	GM955		58.69	58.69	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC9E08b	TC9E08b		64.41	64.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1919.A04	GM1919.A04	GM1919	69.1	69.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2480	GM2480		71.4	71.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq15C12.A04	seq15C12.A04	seq15C12	71.4	71.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq12E10.A04	seq12E10.A04	seq12E10	97.3	97.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1311	GM1311		98.4	98.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_RM17H09	RM17H09		101.39	101.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_gi-0832	gi-0832		102.29	102.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_RN35B05	RN35B05		102.29	102.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq18A8_A3	seq18A8_A3		102.29	102.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq3B10	seq3B10		102.29	102.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah3TC39B04	Ah3TC39B04		102.99	102.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC9E08a	TC9E08a		103.59	103.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq17G6	seq17G6		105.19	105.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq3H6	seq3H6		105.29	105.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1135	GM1135		110.39	110.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_PM120	PM120		114.69	114.69	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_IPAHM108.A04	IPAHM108.A04	IPAHM108	115.79	115.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_seq18C5.A04	seq18C5.A04	seq18C5	115.79	115.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah594_A1	Ah594_A1		122.29	122.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM1907	GM1907		124.28	124.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2638	GM2638		138.68	138.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2637	GM2637		139.73	139.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah-408.A04	Ah-408.A04	Ah-408	142.81	142.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah569	Ah569		143.31	143.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah3TC39A10	Ah3TC39A10		144.51	144.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_TC5A07	TC5A07		146.23	146.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_GM2313	GM2313		146.81	146.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_Ah3TC13G05.A04	Ah3TC13G05.A04	Ah3TC13G05	146.95	146.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_RN12E01	RN12E01		147.55	147.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A04	A04	0	152.4	TT_AhConsensus_GautamiFonceka2012_a_A04_IPAHM395	IPAHM395		152.4	152.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS715	ARS715		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS720	ARS720		37.5	37.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1049	GM1049		50.75	50.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1878.A05	GM1878.A05	GM1878	54.65	54.65	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM654	GM654		61.2	61.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GA34	GA34		64.14	64.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_IPAHM356	IPAHM356		71.55	71.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1577	GM1577		82.1	82.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq9A7_2	seq9A7_2		85.95	85.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC3A12	TC3A12		91.73	91.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC2B09.A05	TC2B09.A05	TC2B09	93.73	93.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS806	ARS806		101.78	101.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1955	GM1955		104.62	104.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_RN6F05	RN6F05		105.84	105.84	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah6_125	Ah6_125		114.89	114.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS702	ARS702		117.25	117.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1007	GM1007		120.81	120.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GA35.A05	GA35.A05	GA35	123.81	123.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM633.A05	GM633.A05	GM633	123.81	123.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq8C10	seq8C10		131.92	131.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq9A7	seq9A7		138.75	138.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC3G05	TC3G05		144.35	144.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah3TC22H12	Ah3TC22H12		144.95	144.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah3TC28A12	Ah3TC28A12		144.95	144.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_PM179	PM179		144.95	144.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_PM45	PM45		144.95	144.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq11E11	seq11E11		144.95	144.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS754	ARS754		148.35	148.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_PM65	PM65		148.35	148.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM630	GM630		149.6	149.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq11C08	seq11C08		150.68	150.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC2D08.A05	TC2D08.A05	TC2D08	150.8	150.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS801	ARS801		151.92	151.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq10D4	seq10D4		153.32	153.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq19E9	seq19E9		153.32	153.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah4-26	Ah4-26		155.92	155.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GA87	GA87		156.32	156.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS777	ARS777		159.13	159.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_PM36.A05	PM36.A05	PM36	160.26	160.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_ARS760	ARS760		161.91	161.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1890	GM1890		162.64	162.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC6E01.A05	TC6E01.A05	TC6E01	164.23	164.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah3TC19D09.A05	Ah3TC19D09.A05	Ah3TC19D09	165.93	165.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah742	Ah742		168.83	168.83	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq2F10	seq2F10		170.37	170.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_Ah614	Ah614		173.88	173.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM637	GM637		175.13	175.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM2078	GM2078		176.1	176.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM632	GM632		179.31	179.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_RN16F05	RN16F05		188.72	188.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_gi-0385	gi-0385		192.28	192.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq10H1A	seq10H1A		192.28	192.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_gi-0620	gi-0620		194.58	194.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM667	GM667		195.68	195.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1988	GM1988		206.48	206.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1702	GM1702		211.61	211.61	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_IPAHM167.A05	IPAHM167.A05	IPAHM167	215.93	215.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_TC5C05	TC5C05		216.46	216.46	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_GM1989	GM1989		219.92	219.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq19D1	seq19D1		224.13	224.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A05	A05	0	232.63	TT_AhConsensus_GautamiFonceka2012_a_A05_seq18G1.A05	seq18G1.A05	seq18G1	232.63	232.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM171c	IPAHM171c		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM171.A06	IPAHM171.A06	IPAHM171	3.9	3.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_PM377	PM377		6.79	6.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq9H8a	seq9H8a		9.35	9.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_S108	S108		16.65	16.65	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM1097	GM1097		38.6	38.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_AC2H11	AC2H11		43.09	43.09	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC3H07a	TC3H07a		45.84	45.84	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM659	IPAHM659		48.74	48.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_RN31A05	RN31A05		49.34	49.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq4H06	seq4H06		49.34	49.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_RN21H01	RN21H01		49.94	49.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq15D3.A06	seq15D3.A06	seq15D3	49.94	49.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC3H07c	TC3H07c		66.44	66.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC3H07b	TC3H07b		71.04	71.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq18G9_A1	seq18G9_A1		77.92	77.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_Ah3TC28E09	Ah3TC28E09		80.02	80.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_PM5	PM5		80.22	80.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM1489	GM1489		83.7	83.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM1490	GM1490		84.4	84.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_Ah20	Ah20		86.03	86.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq18A8_A1	seq18A8_A1		87.83	87.83	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC9C06	TC9C06		88.83	88.83	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC1A01	TC1A01		89.61	89.61	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_Ah3TC38A07	Ah3TC38A07		94.66	94.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM2337	GM2337		102.13	102.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC11A04-1	TC11A04-1		112.06	112.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_ARS816	ARS816		128.53	128.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_ARS774	ARS774		128.63	128.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_ARS793	ARS793		129.23	129.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC1A02.A06	TC1A02.A06	TC1A02	131.33	131.33	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM623	GM623		134.23	134.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_RN34H10	RN34H10		134.53	134.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM245	IPAHM245		140.63	140.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GA21	GA21		143.8	143.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq4E12	seq4E12		146.4	146.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC11A04.A06	TC11A04.A06	TC11A04	148.59	148.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM509	IPAHM509		163.69	163.69	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_TC7C06	TC7C06		167.29	167.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_EM-90	EM-90		172.09	172.09	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_Ah3TC19B03	Ah3TC19B03		194.01	194.01	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_ARS762	ARS762		198.16	198.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_Ah4-101.A06	Ah4-101.A06	Ah4-101	207.89	207.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_PM35.A06	PM35.A06	PM35	211.15	211.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM2536.A06	GM2536.A06	GM2536	215.9	215.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq18G1.A06	seq18G1.A06	seq18G1	222	222	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_gi-0623	gi-0623		222.5	222.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_gi-0936	gi-0936		222.5	222.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq19H3_A2	seq19H3_A2		228.4	228.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM1573.A06	GM1573.A06	GM1573	230.8	230.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_ARS758.A06	ARS758.A06	ARS758	247.08	247.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM2444.A06	GM2444.A06	GM2444	254.28	254.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM2767	GM2767		255.68	255.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_seq19F4	seq19F4		259.48	259.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_IPAHM689.A06	IPAHM689.A06	IPAHM689	260.19	260.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_GM1916	GM1916		260.59	260.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A06	A06	0	275.79	TT_AhConsensus_GautamiFonceka2012_a_A06_PM210.A06	PM210.A06	PM210	275.79	275.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1979.A07	GM1979.A07	GM1979	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1919.A07	GM1919.A07	GM1919	28.8	28.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_IPAHM108.A07	IPAHM108.A07	IPAHM108	38.7	38.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq18C5.A07	seq18C5.A07	seq18C5	38.7	38.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_S118.A07	S118.A07	S118	64.5	64.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_RN34A10	RN34A10		87.87	87.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_RN13D04.A07	RN13D04.A07	RN13D04	91.89	91.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_RN32H04	RN32H04		92.08	92.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq2E6.A07	seq2E6.A07	seq2E6	93.87	93.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_ARS734	ARS734		98.07	98.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq5D5.A07	seq5D5.A07	seq5D5	98.37	98.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ah3TC23E04.A07	Ah3TC23E04.A07	Ah3TC23E04	99.47	99.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ah3TC22D09	Ah3TC22D09		100.07	100.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_PM42_A1	PM42_A1		100.57	100.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1494	GM1494		105.47	105.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq15B4-2	seq15B4-2		109.31	109.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ah32	Ah32		109.86	109.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ah594_A2	Ah594_A2		110.84	110.84	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1937	GM1937		111.26	111.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq14D1	seq14D1		111.92	111.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1076.A07	GM1076.A07	GM1076	114.98	114.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_IPAHM290	IPAHM290		115.88	115.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq3B8	seq3B8		117.58	117.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_PM85	PM85		131.08	131.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ad90K4	Ad90K4		134.35	134.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq16G4	seq16G4		136.05	136.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_TC9C08	TC9C08		142.85	142.85	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_TC9H08.A07	TC9H08.A07	TC9H08	142.85	142.85	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM2050	GM2050		144.25	144.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1880	GM1880		145.82	145.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_TC4G10.A07	TC4G10.A07	TC4G10	147.62	147.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1986.A07	GM1986.A07	GM1986	154.52	154.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_ARS753	ARS753		155.92	155.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq3A1	seq3A1		158.92	158.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_PM204	PM204		166.52	166.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1922	GM1922		167.42	167.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_GM1990	GM1990		169.52	169.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_Ah3TC38F01.A07	Ah3TC38F01.A07	Ah3TC38F01	170.44	170.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_seq2A6.A07	seq2A6.A07	seq2A6	175.14	175.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_RM2D04	RM2D04		178.04	178.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_TC6G09	TC6G09		178.34	178.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_ML4D02	ML4D02		183.06	183.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A07	A07	0	188.96	TT_AhConsensus_GautamiFonceka2012_a_A07_ARS724	ARS724		188.96	188.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC9B08	TC9B08		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM2788	GM2788		3.8	3.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_RM7E04.A08	RM7E04.A08	RM7E04	10.9	10.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC3B05.A08	TC3B05.A08	TC3B05	10.9	10.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM2289	GM2289		29.1	29.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_ARS795.A08	ARS795.A08	ARS795	32.2	32.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC7A02.A08	TC7A02.A08	TC7A02	38.4	38.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_RN22A12	RN22A12		42	42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC1E07	TC1E07		43.78	43.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1901	GM1901		46.56	46.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1538.A08	GM1538.A08	GM1538	48.44	48.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_gi-716	gi-716		49.53	49.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC1E05	TC1E05		56.23	56.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_ARS800	ARS800		59.29	59.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_Ah3TC23H09	Ah3TC23H09		59.46	59.46	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1357	GM1357		60.89	60.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_RM5G08	RM5G08		66.72	66.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1760.A08	GM1760.A08	GM1760	67.42	67.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_seq2A5	seq2A5		67.92	67.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_RN18H05	RN18H05		70.37	70.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_Ah3TC21D06_1	Ah3TC21D06_1		71.97	71.97	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_RM2C01	RM2C01		77.59	77.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC6H03.A08	TC6H03.A08	TC6H03	79.58	79.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_Ad90F2.A08	Ad90F2.A08	Ad90F2	81.93	81.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC9F10.A08	TC9F10.A08	TC9F10	81.93	81.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_Ah3TC22C01	Ah3TC22C01		84.43	84.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_seq5D1	seq5D1		88.42	88.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC9H08.A08	TC9H08.A08	TC9H08	91.79	91.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_IPAHM229.A08	IPAHM229.A08	IPAHM229	93.11	93.11	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_IPAHM540.A08	IPAHM540.A08	IPAHM540	93.71	93.71	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_ML1G04	ML1G04		95.78	95.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_seq2G3	seq2G3		99.38	99.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_seq3A8	seq3A8		100.08	100.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1628	GM1628		102.08	102.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM2754	GM2754		109.2	109.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC3B04.A08	TC3B04.A08	TC3B04	113.23	113.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC9F04.A08	TC9F04.A08	TC9F04	115.02	115.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC11F12.A08	TC11F12.A08	TC11F12	131.95	131.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM2407.A08	GM2407.A08	GM2407	143.93	143.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_TC1B02.A08	TC1B02.A08	TC1B02	179.53	179.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM1863	GM1863		223.53	223.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A08	A08	0	267.23	TT_AhConsensus_GautamiFonceka2012_a_A08_GM2089	GM2089		267.23	267.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1878.A09	GM1878.A09	GM1878	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq8D9.A09	seq8D9.A09	seq8D9	2.18	2.18	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_PM346	PM346		2.28	2.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_gi-1107.A09	gi-1107.A09	gi-1107	3.49	3.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_RN35H04	RN35H04		13.39	13.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_PM170	PM170		13.89	13.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_RN25B01	RN25B01		21.09	21.09	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ahFAD2A	ahFAD2A		22.92	22.92	CAPS			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_AC3C07.A09	AC3C07.A09	AC3C07	29.02	29.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2450	GM2450		37.72	37.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC5D06	TC5D06		37.72	37.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM849	GM849		40.62	40.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq4G2.A09	seq4G2.A09	seq4G2	40.66	40.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS768	ARS768		46.68	46.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq9B4	seq9B4		48.56	48.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq16G8.A09	seq16G8.A09	seq16G8	50.25	50.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS786.A09	ARS786.A09	ARS786	51.39	51.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2359	GM2359		54.49	54.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_Ah3TC25B04	Ah3TC25B04		54.58	54.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS766	ARS766		55.39	55.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS752	ARS752		56.59	56.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1291	GM1291		56.59	56.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS757	ARS757		56.99	56.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS759	ARS759		56.99	56.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2792	GM2792		57.89	57.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1911	GM1911		60.19	60.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS730	ARS730		60.59	60.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS751	ARS751		60.73	60.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_EM-87	EM-87		62.37	62.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq17E3	seq17E3		63.07	63.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC1D02.A09	TC1D02.A09	TC1D02	69.5	69.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2553	GM2553		71.79	71.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_ARS742	ARS742		75.91	75.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC9B07	TC9B07		80.13	80.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1047	GM1047		81.36	81.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_PM675.A09	PM675.A09	PM675	82.86	82.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC4A02.A09	TC4A02.A09	TC4A02	82.86	82.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_IPAHM23.A09	IPAHM23.A09	IPAHM23	83.86	83.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_IPAHM82	IPAHM82		85.66	85.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_PM15_A2	PM15_A2		86.23	86.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_IPAHM75.A09	IPAHM75.A09	IPAHM75	88.34	88.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_Ad90P7	Ad90P7		91.03	91.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2584.A09	GM2584.A09	GM2584	95.52	95.52	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_PM733b	PM733b		101.57	101.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_IPAHM372	IPAHM372		103.73	103.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_IPAHM468	IPAHM468		104.23	104.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1009.A09	GM1009.A09	GM1009	125.67	125.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC3B05.A09	TC3B05.A09	TC3B05	133.27	133.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq2C11.A09	seq2C11.A09	seq2C11	147.02	147.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2259	GM2259		188.32	188.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq18G1.A09	seq18G1.A09	seq18G1	203.17	203.17	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_seq19B1	seq19B1		220.22	220.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM2407.A09	GM2407.A09	GM2407	234.92	234.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC3E02.A09	TC3E02.A09	TC3E02	251.62	251.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_TC3B02	TC3B02		256.02	256.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A09	A09	0	267.42	TT_AhConsensus_GautamiFonceka2012_a_A09_GM1609	GM1609		267.42	267.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM2531.A10	GM2531.A10	GM2531	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM1788	GM1788		2.58	2.58	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq3E10.A10	seq3E10.A10	seq3E10	3.28	3.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_TC11B04.A10	TC11B04.A10	TC11B04	32.78	32.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM647	GM647		56.88	56.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM2411	GM2411		57.61	57.61	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_TC1G04	TC1G04		63.05	63.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_TC7H11.A10	TC7H11.A10	TC7H11	67.15	67.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq4H11.A10	seq4H11.A10	seq4H11	72.95	72.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq4H11_A1	seq4H11_A1		73.47	73.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_AC1G11.A10	AC1G11.A10	AC1G11	76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_AC2B03.A10	AC2B03.A10	AC2B03	76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_AC3C02_B1	AC3C02_B1		76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_Ah3TC23D04	Ah3TC23D04		76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_Ah3TC23F04_A1	Ah3TC23F04_A1		76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq11D4	seq11D4		76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq12F7.A10	seq12F7.A10	seq12F7	76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq14F5	seq14F5		76.37	76.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq9F1	seq9F1		77.07	77.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq11F12	seq11F12		77.38	77.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GA161	GA161		77.88	77.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GA57	GA57		78.08	78.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_seq18C2	seq18C2		78.08	78.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GA79	GA79		78.18	78.18	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM633.A10	GM633.A10	GM633	78.62	78.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_PM145	PM145		78.73	78.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_TC7H11-2	TC7H11-2		82.25	82.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_IPAHM75.A10	IPAHM75.A10	IPAHM75	84.1	84.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GA131.A10	GA131.A10	GA131	84.57	84.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_AC3F07.A10	AC3F07.A10	AC3F07	85.07	85.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS710	ARS710		89.56	89.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_IPAHM352.A10	IPAHM352.A10	IPAHM352	94.66	94.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS773	ARS773		97.06	97.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS785	ARS785		97.06	97.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS798	ARS798		97.06	97.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_PMc468	PMc468		97.5	97.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS812	ARS812		97.68	97.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM2605.A10	GM2605.A10	GM2605	103.13	103.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_ARS775	ARS775		104.05	104.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_TC4G10.A10	TC4G10.A10	TC4G10	105.86	105.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_RM11H01	RM11H01		117.5	117.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM692	GM692		130.41	130.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM699	GM699		132.41	132.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM799	GM799		144.81	144.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM2307	GM2307		172.86	172.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM2669	GM2669		180.76	180.76	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_A10	A10	0	199.16	TT_AhConsensus_GautamiFonceka2012_a_A10_GM1392	GM1392		199.16	199.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2724.B01	GM2724.B01	GM2724	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1971a	GM1971a		12.31	12.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2724a.B01	GM2724a.B01	GM2724a	15.98	15.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1771	GM1771		16.98	16.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2724b.B01	GM2724b.B01	GM2724b	24.25	24.25	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_IPAHM171.B01	IPAHM171.B01	IPAHM171	31.41	31.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_S54	S54		36.91	36.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq9E08_B1	seq9E08_B1		41.73	41.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1501	GM1501		43.94	43.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM635a	GM635a		52.05	52.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah3TC20E08.B01	Ah3TC20E08.B01	Ah3TC20E08	52.34	52.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq4A06.B01	seq4A06.B01	seq4A06	53.29	53.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq19H03_B2	seq19H03_B2		59.63	59.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1599	GM1599		61.93	61.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC7H02	TC7H02		62.53	62.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah126.B01	Ah126.B01	Ah126	64.24	64.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1971.B01	GM1971.B01	GM1971	64.24	64.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM635b	GM635b		64.24	64.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1090	GM1090		65.98	65.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq18G09	seq18G09		66.14	66.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1331	GM1331		66.27	66.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_ARS756	ARS756		71.77	71.77	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_ARS727	ARS727		72.98	72.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM687	GM687		72.98	72.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq13A07	seq13A07		72.98	72.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah490	Ah490		118.68	118.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC7D03	TC7D03		127.51	127.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah3TC16A10.B01	Ah3TC16A10.B01	Ah3TC16A10	130.67	130.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah3	Ah3		131.47	131.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2233	GM2233		131.93	131.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC1A08	TC1A08		132.43	132.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM669	GM669		137.21	137.21	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq3E12	seq3E12		141.6	141.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq17E01	seq17E01		144.74	144.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ap152	Ap152		150.18	150.18	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah3TC20D05	Ah3TC20D05		159.5	159.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2606	GM2606		159.5	159.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_Ah11	Ah11		230.94	230.94	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1531	GM1531		231.15	231.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC2E05.B01	TC2E05.B01	TC2E05	231.15	231.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_IPAHM37	IPAHM37		236.55	236.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_IPAHM287.B01	IPAHM287.B01	IPAHM287	239.93	239.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq18B08	seq18B08		245.44	245.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2607	GM2607		254.62	254.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM2308.B01	GM2308.B01	GM2308	268.51	268.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1565	GM1565		268.6	268.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_seq16G08.B01	seq16G08.B01	seq16G08	273.39	273.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC3G01a	TC3G01a		282.19	282.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_TC3G01c	TC3G01c		283.24	283.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1187	GM1187		287.74	287.74	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B01	B01	0	300.44	TT_AhConsensus_GautamiFonceka2012_a_B01_GM1899.B01	GM1899.B01	GM1899	300.44	300.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_IPAHM569	IPAHM569		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_GM625	GM625		3.3	3.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq14G03	seq14G03		9.7	9.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_gi_0342	gi_0342		12	12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_RI2A06.B02	RI2A06.B02	RI2A06	48	48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq2F05.B02	seq2F05.B02	seq2F05	49.3	49.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_Ag39.B02	Ag39.B02	Ag39	56.9	56.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_Ah3TC13E05	Ah3TC13E05		56.9	56.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_TC1E01.B02	TC1E01.B02	TC1E01	56.9	56.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq14D11.B02	seq14D11.B02	seq14D11	57.1	57.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_RI1F06.B02	RI1F06.B02	RI1F06	80.3	80.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_PM32.B02	PM32.B02	PM32	99.7	99.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_IPAHM167.B02	IPAHM167.B02	IPAHM167	102.3	102.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq18E07	seq18E07		110.2	110.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_TC1B02.B02	TC1B02.B02	TC1B02	115.1	115.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_GM1538.B02	GM1538.B02	GM1538	116.8	116.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_IPAHM524.B02	IPAHM524.B02	IPAHM524	127.35	127.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_TC9F04.B02	TC9F04.B02	TC9F04	130.21	130.21	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_GM2196	GM2196		131.21	131.21	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq2D12B	seq2D12B		134.63	134.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_PM499	PM499		135.93	135.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq1B09.B02	seq1B09.B02	seq1B09	143.43	143.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_AC2C05	AC2C05		150.63	150.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_Ah26	Ah26		150.63	150.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq7B03	seq7B03		154.73	154.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_PM73	PM73		155.23	155.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq2G04	seq2G04		155.23	155.23	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_RN0x615	RN0x615		158.73	158.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq11H01.B02	seq11H01.B02	seq11H01	159.31	159.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B02	B02	0	162.81	TT_AhConsensus_GautamiFonceka2012_a_B02_seq4E08	seq4E08		162.81	162.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1854	GM1854		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_Ah3TC23E04.B03	Ah3TC23E04.B03	Ah3TC23E04	6.55	6.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_Ah3TC29H08	Ah3TC29H08		8.15	8.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC2A02	TC2A02		8.55	8.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC3E02.B03	TC3E02.B03	TC3E02	10.15	10.15	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC2A02b	TC2A02b		23.75	23.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC2A02a	TC2A02a		28.1	28.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq14C11	seq14C11		33.75	33.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC4E10.B03	TC4E10.B03	TC4E10	58.85	58.85	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq15D03.B03	seq15D03.B03	seq15D03	70.53	70.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq19D09.B03	seq19D09.B03	seq19D09	72.19	72.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC7E04.B03	TC7E04.B03	TC7E04	74.7	74.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1502	GM1502		78.36	78.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_IPAHM93	IPAHM93		95.06	95.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_SC1003E1	SC1003E1		103.96	103.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1762	GM1762		133.86	133.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1733	GM1733		139.92	139.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq2C11.B03	seq2C11.B03	seq2C11	140.92	140.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1883	GM1883		141.32	141.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_ARS788	ARS788		145.51	145.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq14C11-1	seq14C11-1		146.75	146.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_PM31	PM31		155.82	155.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_PM3.B03	PM3.B03	PM3	156.4	156.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_RM14H12	RM14H12		159.3	159.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq9E08_B2	seq9E08_B2		161.43	161.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq19H03_B1	seq19H03_B1		183.33	183.33	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_EM_152	EM_152		190.13	190.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_PM201.B03	PM201.B03	PM201	190.13	190.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1618	GM1618		196.63	196.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_Ah3TC40C03_B1	Ah3TC40C03_B1		200.7	200.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM626	GM626		201.54	201.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC1E06.B03	TC1E06.B03	TC1E06	202.71	202.71	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1996	GM1996		204.48	204.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2053	GM2053		204.48	204.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_PM238.B03	PM238.B03	PM238	204.48	204.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_RN17B08	RN17B08		204.48	204.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_RM14E11	RM14E11		205.08	205.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq16C06	seq16C06		207.38	207.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_PM434.B03	PM434.B03	PM434	208.78	208.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_AC1G11.B03	AC1G11.B03	AC1G11	211.08	211.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2069	GM2069		211.11	211.11	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2308.B03	GM2308.B03	GM2308	215.36	215.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq13E09	seq13E09		222.85	222.85	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2688	GM2688		225.47	225.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1083	GM1083		229.17	229.17	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq3F05	seq3F05		230.07	230.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_Ah-590	Ah-590		231.44	231.44	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq2H08	seq2H08		234.46	234.46	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2388	GM2388		235.04	235.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2687	GM2687		236.14	236.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq16F01	seq16F01		236.51	236.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq2B10	seq2B10		236.51	236.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_TC4G02.B03	TC4G02.B03	TC4G02	240.41	240.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_seq2E06.B03	seq2E06.B03	seq2E06	249.12	249.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1954.B03	GM1954.B03	GM1954	251.02	251.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_IPAHM103.B03	IPAHM103.B03	IPAHM103	264.22	264.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2079	GM2079		268.42	268.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2301	GM2301		269.82	269.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM1536	GM1536		271.92	271.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B03	B03	0	282.02	TT_AhConsensus_GautamiFonceka2012_a_B03_GM2009	GM2009		282.02	282.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM1416	GM1416		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2584.B04	GM2584.B04	GM2584	18.9	18.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM219.B04	IPAHM219.B04	IPAHM219	20	20	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_TC1B04	TC1B04		20	20	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM1089	GM1089		29.1	29.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_TC11H06	TC11H06		37.8	37.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM1445	GM1445		44.8	44.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq12E10.B04	seq12E10.B04	seq12E10	44.8	44.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq13A10.B04	seq13A10.B04	seq13A10	44.8	44.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq4H11.B04	seq4H11.B04	seq4H11	45.7	45.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_S11	S11		47.01	47.01	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM121	IPAHM121		49.86	49.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq14D11.B04	seq14D11.B04	seq14D11	50.63	50.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM97	IPAHM97		66.68	66.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM451	IPAHM451		82.08	82.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_gi_0832	gi_0832		87.28	87.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_EM_42	EM_42		90.35	90.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2033	GM2033		92.24	92.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2589.B04	GM2589.B04	GM2589	95.88	95.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_TC4H07	TC4H07		99.18	99.18	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_PM35.B04	PM35.B04	PM35	99.54	99.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq17F06	seq17F06		99.54	99.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM1959	GM1959		101.34	101.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_TC4E09	TC4E09		106.8	106.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM1571	GM1571		108.7	108.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_Ah3TC12A01	Ah3TC12A01		108.88	108.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2265	GM2265		110.27	110.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM105.B04	IPAHM105.B04	IPAHM105	113.5	113.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_IPAHM108.B04	IPAHM108.B04	IPAHM108	113.87	113.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2481	GM2481		115.19	115.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq11H11	seq11H11		115.24	115.24	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_GM2482	GM2482		116.05	116.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_Ah-408.B04	Ah-408.B04	Ah-408	125.49	125.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq15C12.B04	seq15C12.B04	seq15C12	125.5	125.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_RN9C02	RN9C02		125.55	125.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_Ah-569	Ah-569		127.72	127.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_Ah3TC13G05.B04	Ah3TC13G05.B04	Ah3TC13G05	133.02	133.02	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq8B09	seq8B09		154.62	154.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_PMc348.B04	PMc348.B04	PMc348	157.12	157.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_PMc297	PMc297		170.05	170.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_EM_88	EM_88		173.76	173.76	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B04	B04	0	177.66	TT_AhConsensus_GautamiFonceka2012_a_B04_seq18C05.B04	seq18C05.B04	seq18C05	177.66	177.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM1539	GM1539		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM352.B05	IPAHM352.B05	IPAHM352	4.31	4.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM2769	GM2769		6.42	6.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM2137	GM2137		7.62	7.62	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM2084	GM2084		8.09	8.09	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM73	IPAHM73		9.83	9.83	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM75.B05	IPAHM75.B05	IPAHM75	12.57	12.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM287.B05	IPAHM287.B05	IPAHM287	15.82	15.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM1641	GM1641		22.13	22.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_seq9G05	seq9G05		24.48	24.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_Ah3TC19E01	Ah3TC19E01		29.1	29.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_TC6E01.B05	TC6E01.B05	TC6E01	33.2	33.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_AC2C02_B1	AC2C02_B1		34.3	34.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_Ah3TC22F10	Ah3TC22F10		34.3	34.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_seq19D6	seq19D6		35.6	35.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_TC1D12	TC1D12		48.5	48.5	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM272	IPAHM272		55.4	55.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_PM36.B05	PM36.B05	PM36	59.2	59.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM282	IPAHM282		60.35	60.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM723b	GM723b		61.6	61.6	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM455	IPAHM455		64.39	64.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM1555	GM1555		74.81	74.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_seq19H3	seq19H3		76.12	76.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM-354	IPAHM-354		81.96	81.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_TC2B09.B05	TC2B09.B05	TC2B09	83.72	83.72	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_TC11B04.B05	TC11B04.B05	TC11B04	92.81	92.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_PMc348.B05	PMc348.B05	PMc348	99.04	99.04	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_PM50	PM50		103.31	103.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_Ah3TC19D09.B05	Ah3TC19D09.B05	Ah3TC19D09	112.51	112.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_PM418	PM418		113.03	113.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_PM183	PM183		116.68	116.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_GM657	GM657		145.48	145.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B05	B05	0	167.28	TT_AhConsensus_GautamiFonceka2012_a_B05_IPAHM136	IPAHM136		167.28	167.28	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM2513	GM2513		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_TC4D09	TC4D09		3.95	3.95	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_seq18G01.B06	seq18G01.B06	seq18G01	5.36	5.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_TC3H07.B06	TC3H07.B06	TC3H07	24.56	24.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_seq19E07	seq19E07		33.79	33.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_IPAHM524.B06	IPAHM524.B06	IPAHM524	41.49	41.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_TC1A02.B06	TC1A02.B06	TC1A02	42.22	42.22	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_TC11A04.B06	TC11A04.B06	TC11A04	45.91	45.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_PM210.B06	PM210.B06	PM210	49.71	49.71	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_IPAHM165	IPAHM165		51.41	51.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_seq19A05	seq19A05		51.41	51.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM670	GM670		53.31	53.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_PM137	PM137		55.41	55.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_Ah3TC24B05	Ah3TC24B05		57.03	57.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_Ah3TC19F05	Ah3TC19F05		58.13	58.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_seq3C02.B06	seq3C02.B06	seq3C02	62.8	62.8	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GA2	GA2		63.3	63.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM1991	GM1991		63.3	63.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM884	GM884		70.3	70.3	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_AC2C02_B2	AC2C02_B2		74.96	74.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM2444.B06	GM2444.B06	GM2444	78.31	78.31	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_GM2425	GM2425		79.99	79.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_PM671	PM671		83.59	83.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B06	B06	0	99.03	TT_AhConsensus_GautamiFonceka2012_a_B06_IPAHM407c	IPAHM407c		99.03	99.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_RN13D04.B07	RN13D04.B07	RN13D04	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM1953	GM1953		8.63	8.63	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2156	GM2156		18.43	18.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq2E06.B07	seq2E06.B07	seq2E06	18.43	18.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_Ah3TC41A11_1	Ah3TC41A11_1		20.18	20.18	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2067	GM2067		24.78	24.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2073	GM2073		24.78	24.78	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq5D05.B07	seq5D05.B07	seq5D05	25.48	25.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM1899.B07	GM1899.B07	GM1899	26.41	26.41	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_PM69	PM69		29.08	29.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2745	GM2745		29.4	29.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2744	GM2744		32.21	32.21	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM1254	GM1254		37.21	37.21	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM2605.B07	GM2605.B07	GM2605	37.67	37.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM1076.B07	GM1076.B07	GM1076	40.57	40.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GA24	GA24		41.87	41.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM1000	GM1000		49.47	49.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq15C10	seq15C10		49.49	49.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC4G10.B07	TC4G10.B07	TC4G10	52.2	52.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC9H09	TC9H09		52.85	52.85	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq19C03.B07	seq19C03.B07	seq19C03	58.45	58.45	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq19B12	seq19B12		64.16	64.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_GM624	GM624		68.26	68.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq14D11.B07	seq14D11.B07	seq14D11	68.26	68.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_EM_30	EM_30		72.56	72.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_seq3C02.B07	seq3C02.B07	seq3C02	74.33	74.33	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_ARS795.B07	ARS795.B07	ARS795	80.32	80.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC3B05.B07	TC3B05.B07	TC3B05	85.36	85.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_RM7E04.B07	RM7E04.B07	RM7E04	87.56	87.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC2G05	TC2G05		94.06	94.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC7A02.B07	TC7A02.B07	TC7A02	100.12	100.12	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC3B04.B07	TC3B04.B07	TC3B04	101.42	101.42	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_Ah3TC40C03_B2	Ah3TC40C03_B2		106.87	106.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B07	B07	0	114.37	TT_AhConsensus_GautamiFonceka2012_a_B07_TC11F12.B07	TC11F12.B07	TC11F12	114.37	114.37	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_TC3G01b	TC3G01b		0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM373	IPAHM373		17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM1760.B08	GM1760.B08	GM1760	23.1	23.1	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah51	Ah51		30.91	30.91	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_ARS738	ARS738		40.4	40.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_PM733a	PM733a		45.66	45.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_AC2C12	AC2C12		46.66	46.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_TC6H03.B08	TC6H03.B08	TC6H03	47.96	47.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_TC9F10.B08	TC9F10.B08	TC9F10	53.81	53.81	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM406.B08	IPAHM406.B08	IPAHM406	54.16	54.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah3TC20B05	Ah3TC20B05		54.36	54.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ad90F2.B08	Ad90F2.B08	Ad90F2	55.03	55.03	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_ARS789	ARS789		55.75	55.75	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah4-101.B08	Ah4-101.B08	Ah4-101	57.67	57.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM1961	GM1961		57.67	57.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM679	GM679		57.67	57.67	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM660	GM660		58.27	58.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_PM721	PM721		58.27	58.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM123	IPAHM123		62.57	62.57	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah1	Ah1		69.97	69.97	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM2690	GM2690		70.87	70.87	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM2689	GM2689		71.27	71.27	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM229.B08	IPAHM229.B08	IPAHM229	71.56	71.56	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM2504	GM2504		80.86	80.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM2746	GM2746		80.86	80.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_PM419	PM419		96.46	96.46	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM606	IPAHM606		102.16	102.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM219.B08	IPAHM219.B08	IPAHM219	103.66	103.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_seq2A06.B08	seq2A06.B08	seq2A06	103.66	103.66	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM540.B08	IPAHM540.B08	IPAHM540	104.26	104.26	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM177.B08	IPAHM177.B08	IPAHM177	105.16	105.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ai123M2.B08	Ai123M2.B08	Ai123M2	106.86	106.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah3TC40E08	Ah3TC40E08		106.9	106.9	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah3TC24E01	Ah3TC24E01		108.34	108.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM1986.B08	GM1986.B08	GM1986	108.92	108.92	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah3TC38C01.B08	Ah3TC38C01.B08	Ah3TC38C01	109.51	109.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM407	IPAHM407		109.51	109.51	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_IPAHM171.B08	IPAHM171.B08	IPAHM171	110.19	110.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_Ah3TC31E08	Ah3TC31E08		113.29	113.29	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_ARS786.B08	ARS786.B08	ARS786	115.36	115.36	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_AC3C07.B08	AC3C07.B08	AC3C07	115.96	115.96	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_PM188	PM188		117.16	117.16	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM1798	GM1798		120.93	120.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM2536.B08	GM2536.B08	GM2536	120.93	120.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_seq3A06	seq3A06		121.77	121.77	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_seq8H01	seq8H01		128.09	128.09	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B08	B08	0	144.34	TT_AhConsensus_GautamiFonceka2012_a_B08_GM698	GM698		144.34	144.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM1483.B09	GM1483.B09	GM1483	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM1979.B09	GM1979.B09	GM1979	14.7	14.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_seq2B9	seq2B9		17.59	17.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_TC2D08.B09	TC2D08.B09	TC2D08	22.34	22.34	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_Ai119C17.B09	Ai119C17.B09	Ai119C17	29.98	29.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM1603	GM1603		31.98	31.98	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_TC5A06	TC5A06		34.08	34.08	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_TC1D02.B09	TC1D02.B09	TC1D02	35.19	35.19	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_seq14H6	seq14H6		41.79	41.79	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM694	GM694		43.49	43.49	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_PM436	PM436		46.89	46.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_Lec1	Lec1		49.54	49.54	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_gi-1107.B09	gi-1107.B09	gi-1107	50.64	50.64	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_seq7G2	seq7G2		62.59	62.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM2120	GM2120		73.06	73.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_seq4G2.B09	seq4G2.B09	seq4G2	78.82	78.82	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_Ah3TC25G11	Ah3TC25G11		79.32	79.32	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_ahFAD2B	ahFAD2B		82.82	82.82	CAPS			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM1893	GM1893		90.06	90.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_seq17C9	seq17C9		103.06	103.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B09	B09	0	125.86	TT_AhConsensus_GautamiFonceka2012_a_B09_GM2584.B09	GM2584.B09	GM2584	125.86	125.86	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_Ah3TC22G05.B10	Ah3TC22G05.B10	Ah3TC22G05	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_Ah3TC38F01.B10	Ah3TC38F01.B10	Ah3TC38F01	0	0	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_seq7H6	seq7H6		16.7	16.7	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_IPAHM176	IPAHM176		22.45	22.45	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_seq3E10.B10	seq3E10.B10	seq3E10	30.35	30.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_TC11A02	TC11A02		42.55	42.55	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_AC2B03.B10	AC2B03.B10	AC2B03	44.4	44.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GA156	GA156		44.4	44.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_Ah3TC31C09	Ah3TC31C09		46.2	46.2	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_Ah3TC23F04	Ah3TC23F04		47.4	47.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_IPAHM689.B10	IPAHM689.B10	IPAHM689	47.4	47.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_TC3E05	TC3E05		47.4	47.4	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_TC4A02.B10	TC4A02.B10	TC4A02	49.06	49.06	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_AC3F07.B10	AC3F07.B10	AC3F07	53.14	53.14	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_IPAHM531.B10	IPAHM531.B10	IPAHM531	53.48	53.48	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_TC7H11.B10	TC7H11.B10	TC7H11	54.88	54.88	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_Ah3TC23H10	Ah3TC23H10		56.59	56.59	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM2531.B10	GM2531.B10	GM2531	61.38	61.38	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GA131.B10	GA131.B10	GA131	62.13	62.13	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_EE_16	EE_16		65.43	65.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_RN3E10	RN3E10		69.05	69.05	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_PM675.B10	PM675.B10	PM675	70.35	70.35	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_IPAHM23.B10	IPAHM23.B10	IPAHM23	75.45	75.45	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_seq3E10-2	seq3E10-2		75.68	75.68	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_ARS771	ARS771		82.47	82.47	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM690	GM690		88.07	88.07	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM678	GM678		110.39	110.39	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM1742	GM1742		118.73	118.73	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM2165	GM2165		119.93	119.93	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_IPAHM475	IPAHM475		121.43	121.43	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM1573.B10	GM1573.B10	GM1573	130.53	130.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM2032	GM2032		142.53	142.53	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM1009.B10	GM1009.B10	GM1009	151.99	151.99	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_GM1483.B10	GM1483.B10	GM1483	155.89	155.89	SSR			0	
+TT_AhConsensus_GautamiFonceka2012_a_B10	B10	0	166.99	TT_AhConsensus_GautamiFonceka2012_a_B10_seq8D9.B10	seq8D9.B10	seq8D9	166.99	166.99	SSR			0	

@@ -1,0 +1,272 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	feature_dbxref_name	feature_dbxref_url	is_landmark	feature_attributes
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_P445	P445		0	10	RFLP			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Adh3	Adh3	Alcohol dehydrogenase 3	0	10	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Cop1	Cop1	Constitutively photomorphogenic regulatory protein	10	10	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_cDNA 267	cDNA 267		12	12	cDNA			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_c148b	c148b		12	14	cDNA			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Nod3	Nod3	Loss of nitrate suppression of nodulation	14	14	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Q407	Q407	probable ligand binding protein	14	16	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_cDNA44	cDNA44		16	16	cDNA			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Enod7	Enod7	Early nodulin 7	17	17	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Sym2	Sym2	Strain-specific nodulation	18	18	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_cDNA164	cDNA164		19	19	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Lb	Lb	Leghemoglobin	21	21	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_D	D	Disappearance of axil color	23	23	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Idh	Idh	Isocitrate dehydrogenase (NADP-specific)	26	26	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Sym19	Sym19	NORK	26	37	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_SHMT	SHMT	Serine hydroxymethyltransferase	26	37	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Enod40	Enod40	Early nodulin 40	37	37	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_ACL	ACL	ATP citrate lyase	46	46	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Alatc	Alatc	Cytosol-specific alanine aminotransferase	50	50	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Q184	Q184		50	64	EST			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_PSMPA7225	PSMPA7225	SSR A7-225	64	64	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_cDNA76	cDNA76		64	74	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_GdcH	GdcH	Glycine decarboxylase H subunit	64	74	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Lox	Lox	Lipoxygenase cluster	64	74	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_Sym10	Sym10	LysM type receptor kinase	74	74	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_PSMPB14-200	PSMPB14-200	SSR B14-200	79	79	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_CS2/2	CS2/2	 2/3,2/3,Chalcone synthase 2/2	79	83	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_I	I	Green cotyledon	83	83	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_NiR	NiR	Nitrate reductase like sequence	84	84	Marker			0	
+PsWeeden2005_1	1	0	85	PsWeeden2005_1_GdhC	GdhC	Glycine decarboxylase C subunit	84	85	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_64-X29	64-X29		5	5	RBIP			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Cyp15	Cyp15	Cysteine protease,TPPA	5	13	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_O13653	O13653	Unknown protein	13	13	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Gpx	Gpx	Glutathione peroxidase	16	16	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Aatp	Aatp	plastid-specific aspartate aminotransferase	19	19	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_GdcP	GdcP	Glycine decarboxylase P subunit	19	39	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_PID5	PID5	Granule-bound starch synthase I	39	39	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_His2-6	His2-6	Histone	41	41	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_CD40	CD40	B-type legumin,LgJ	44	44	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_A	A	Anthocyanin presence	46	46	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_P482	P482	Auxin regulated protein AUX88	46	49	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_M123	M123	Glutamine synthetase	49	49	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Lf	Lf	Late flowering	51	51	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_1D04	1D04	S-adenosyl-L-methionine synthetase	51	65	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_c56/1	c56/1		51	65	EST			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_IAA4/5	IAA4/5	Auxin regulated protein	65	65	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_CLPA	CLPA	Chloroplast envelope protein	65	69	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Mdhc	Mdhc	Cry2,Malate dehydrogenase (NAD)	69	69	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Enod2	Enod2	Early nodulin 2	72	72	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_TPPB	TPPB	thioprotease B	72	79	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_His7	His7	His2A,Histone 7	72	79	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_PhyApo	PhyApo	Phytochrome apoprotein	79	79	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_L27	L27	DNA photolyase	79	84	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Sym22	Sym22	Strain specific nodulation in JI1794	84	84	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_CT16-580	CT16-580		85	85	cDNA			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Fum	Fum	Fumarase	89	89	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_P180	P180	40S ribosomal protein S18	95	95	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Z302	Z302	STS marker from RAPD	97	97	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_FTase	FTase	Farnesyl transferase beta subunit	98	98	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Mo	Mo	eIF(iso)4E,eukaryotic elongation factor 4E	99	99	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_TPP	TPP	Thioprotease PCR fragment	103	103	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Pgmp	Pgmp	Rug3,plastid-specific phosphoglucomutase	104	104	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_K	K	Compressed wings	109	109	Marker			0	
+PsWeeden2005_2	2	0	124	2003	Ibfhyorp	Convicilin	109	114	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Wb	Wb	Waxless stipules	114	114	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_Q363	Q363	Sugar-starvation induced protein	115	115	Marker			0	
+PsWeeden2005_2	2	0	124	PsWeeden2005_2_S	S		124	124	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Aat	Aat	Aspartate aminotransferase	48	48	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_MNSOD	MNSOD	Superoxide dismutase (Mn containing)	51	51	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_NPAC	NPAC	Nascent polypeptide associated protein alpha subunit	52	52	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Adh1	Adh1	Alcohol dehydrogenase 1	54	54	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Acp3	Acp3	Acid phosphatase 3	56	56	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_5S RNA	5S RNA		56	66	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Dpo	Dpo	Dehiscent pod	66	66	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_AD141	AD141		71	71	SSR			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_GPT	GPT	Glucose 6-phosphate/phosphate translocator	78	78	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_cMH95	cMH95		78	78	cDNA			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Gsn	Gsn	Nodule-specific glutamine synthatase,cDNA23	78	86	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Vc3	Vc3	Vicilin 3	86	86	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Enod3	Enod3	Early nodulin 3	86	88	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Ant	Ant	ADP/ATP translocator	88	88	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Lap1	Lap1	Leucine aminopeptidase 1	88	94	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Enod12A	Enod12A	B,Early nodulin 12 A & B	88	94	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_CHS1	CHS1	Chalcone synthase	88	94	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_PEPC	PEPC	Phosphoenolpyruvate carboxylase	94	94	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_M27	M27	Prunasin hydrolase precursor	94	96	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Cipor	Cipor	Protochlorophyllide reductase	96	96	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_L78	L78		96	99	EST			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_O16105	O16105	Homologous with sequence on MtH2-5p10	99	99	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Np	Np	Neoplasm	105	105	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Cl24	Cl24	50S ribosomal protein L24 (plastid)	105	109	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_LAsyn	LAsyn	Lipoic acid synthase	109	109	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_M75	M75	Brain protein homolog	109	115	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Tpip	Tpip	Plastid-specific triose phosphate isomerase	115	115	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Fk4	Fk4	Fructokinase-like sequence	116	116	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_BFruct	BFruct	Beta-fructosan	118	118	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Lox 10	Lox 10	Lipoxygenase	118	125	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Le	Le	Gibberellin 3 beta-hydroxylase	125	125	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_L109	L109	Unknown protein	125	126	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_AGLP	AGLP	ADP-glucose pyrophosphorylase-like sequence	10	10	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Aatc	Aatc	Cytosol-specific aspartate aminotransferase	13	13	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_PsAc3	PsAc3	Actin 3	13	19	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Rb	Rb	ADP-glucose pyrophosphorylase,AGLP	19	19	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_TubA	TubA	Tubulin A	22	22	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_PSMP A7-410	PSMP A7-410	SSR A7-410	22	22	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_HsfA	HsfA		31	31	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Rms1	Rms1	 More axillary growth gene,Max4,Ramosus 1	32	32	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_M	M		34	34	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Vc5	Vc5	Vicilin 5	34	37	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Lap2	Lap2	Leucine aminopeptidase 2	37	37	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Hsp21	Hsp21	Heat-shock protein 21	37	43	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_1A04	1A04	40S ribosomal protein SA (p40)	37	43	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Gal3	Gal3	Beta galactosidase 3	43	43	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_Uni	Uni	 PeaFLO,Unifoliata	45	45	Marker			0	
+PsWeeden2005_3	3	0	126	PsWeeden2005_3_MTF1	MTF1	Sepalata 3	47	47	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_cab1	cab1		3	3	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_rDNA1	rDNA1	45S ribosomal array 1	10	10	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_AA219	AA219		10	10	SSR			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_GdcT	GdcT	Glycine decarboxylase T subunit	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Doss GA18	Doss GA18		14	14	cDNA			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_64-X11	64-X11		14	14	RBIP			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_L58	L58	Protein kinase SNF1 homolog	14	25	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Hsp70	Hsp70	Heat shock protein 70	14	25	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_GdcL	GdcL	Glycine decarboxylase L subunit	14	25	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Ssyn	Ssyn	Sucrose synthase	25	25	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_cMH41	cMH41		26	26	cDNA			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_PEAM4	PEAM4	MADS box transcription factor	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_D8C2	D8C2	GTP binding protein	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_P643a	P643a	NADH-upiquinone dehydrognease 24-kDa subunit	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_L1c	L1c	Aldehyde dehydrogenase	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_1B05	1B05	40S ribosomal protein S9	26	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_PPE	PPE	ribulose-5-phosphate-3-epimerase	44	44	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_P393b	P393b	Abscisic acid induced protein HVA22	45	45	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_AA285	AA285		46	46	SSR			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_GA2BH	GA2BH	Gibberellin 2-beta-hydroxylase	47	47	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_L98	L98	Apa G protein	48	48	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Adh2	Adh2	Alcohol dehydrogenase 2	48	65	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Est	Est	Esterase	65	65	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Chitinase	Chitinase		65	87	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_P628	P628	Glyceraldehyde 3-phosphate dehydrogenase	87	87	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_P393a	P393a	Abscisic acid induced protein HVA22	90	90	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_Pim	Pim	MADs-box transcription factor	90	98	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_PSMP A7-185	PSMP A7-185	SSR A7-185	98	98	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_FRO1	FRO1	Ferredoxin reductase	103	103	Marker			0	
+PsWeeden2005_4	4	0	114	PsWeeden2005_4_1794X-a	1794X-a		114	114	RBIP			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Ti	Ti	Trypsin inhibitor	69	73	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Bt	Bt	Blunt pod	3	3	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_RGA5	RGA5	Resistance gene analog 5	73	73	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Px1	Px1	Peroxidase 1 (anodal)	73	79	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Bpm	Bpm	2,3 bisphosphoglycerate-independent) phosphoglycerate mutase	79	79	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Pme	Pme	Pectin methyl esterase	84	84	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Gp	Gp	Yellow pod	86	86	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Acp1	Acp1	Acid phosphatase 1	90	90	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Cri	Cri	Mb-related transcription factor,Phan1	90	101	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Fbpp	Fbpp	Plastid-specific fructose bisphosphatase	101	101	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_AD155a	AD155a		104	104	SSR			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_pslf2	pslf2	Tfd-like sequence	106	106	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Nag	Nag	N-acetyl glucosaminidase	106	115	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Rpl 32B	Rpl 32B	60S ribosomal protein L32	106	115	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Mpi	Mpi	Mannose phosphate isomerase	106	115	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_1B04/1	1B04/1	Ubiquitin conjugating enzyme E2	3	22	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_1D04	1D04	S-adenosyl-L-methionne synthetase	3	22	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Est4	Est4	Esterase 4	3	22	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Lhb/4	Lhb/4	Leghemoglobin 4	22	22	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_AB23	AB23		22	22	SSR			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Acp2	Acp2	Acid phosphatase 2	22	28	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_CT-16 (1200)	CT-16 (1200)		28	28	cDNA			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Det1	Det1	Determinant inflorescence	28	34	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_1C08	1C08	Heat-shock protein 70	116	125	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_P643d	P643d	NADH-upiquinone dehydrognease 24-kDa subunit	28	34	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Tl	Tl	Tendrilless	34	34	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Enol	Enol	Enolase	34	36	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Pgdc	Pgdc	cystosol-specific 6-phosphogluconate dehydrogenase	115	115	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Crs	Crs	Cystathionine synthase	116	116	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_5S RNA	5S RNA		116	125	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_RbcS	RbcS	Ribulose bisphosphate carboxylase small subunit	125	125	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Rpl24A	Rpl24A	Ribosomal protein 24A	34	36	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_R	R	 Starch branching enzyme,Wrinkled cotyledon	36	36	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Paal 1	Paal 1	2,Phenylalanine ammonia lyase 1	40	40	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_His1	His1	Histone H1	42	42	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_P108	P108	Thioredoxin,Thioredoxin H-type	52	58	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_1074 Cycl-12	1074 Cycl-12		46	46	RBIP			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Sca	Sca		48	48	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_1794-X9	1794-X9		49	49	RBIP			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_TufM	TufM	Mitochondrial elongation factor	52	52	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_CD43	CD43	Legumin A-type,LgA	52	58	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_PI4P	PI4P		58	58	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_Apy	Apy	Apyrase	65	65	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_GAPA	GAPA	Glyceraldehyde 3-P dehydrogenase A	65	65	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_VcJ	VcJ	Vicilin J	69	69	Marker			0	
+PsWeeden2005_5	5	0	125	PsWeeden2005_5_FK	FK	Fructokinase	69	69	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Pgkp	Pgkp	Plastid-specific phosphoglycerate kinase	1	1	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_PIN1	PIN1	Auxin efflux carrier protein	4	4	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_AD160	AD160		7	7	SSR			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_B18E	B18E		11	11	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Gsc2	Gsc2	Cytosol-specific glutamine synthatase 2	19	19	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Rpl22	Rpl22	Ribosomal protein CL22	22	22	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_pID18	pID18	Dehydrin	22	27	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_P643c	P643c	NADH-upiquinone dehydrognease 24-kDa subunit	45	48	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Al1 (Aba?)	Al1 (Aba?)	Albumin 1	27	27	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Acp4	Acp4	Acid phosphatase 4	29	29	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_CYP82A1	CYP82A1	P450 hydroxylase	31	31	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Er1	Er1	Powdery mildew resistance	37	37	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_P445B	P445B	Ca-dependent protein kinase	39	39	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_ZD10-650	ZD10-650	SCAR	40	40	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_CD7/5&6	CD7/5&6	Heat-shock protein 70	40	45	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Gty	Gty		45	45	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_ArgoB	ArgoB	Argonaute B	45	45	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_PeaFUL	PeaFUL	Fruitful-like MADS box gene	45	45	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_AD159	AD159		48	48	SSR			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Gluconase	Gluconase	3-gluconase,beta 1	48	59	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_D8C1	D8C1	GTP binding protein	48	59	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_DRR49	DRR49	Disease resistance response protein 49	48	59	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Gpic	Gpic	Cytosol-specific glucose phosphate isomerase	59	59	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Prx3	Prx3	Peroxidase 3 (cathodal)	63	63	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Hop1	Hop1	Homeodomain transcription factor	65	65	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_AA335	AA335		71	71	SSR			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Gsp	Gsp	Plastid-specific glutamine synthetase	73	73	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_P446	gzcoklgom		73	76	EST			1	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_PsPK2	PsPK2	Pyruvate kinase 2	76	76	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Sbm1	Sbm1	Eukaryotic initiation factor 4E,eIF4E	80	80	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Hsp70/1	Hsp70/1	Heat-shock protein 70-1	80	85	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Pl	Pl	Black hilum	85	85	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_5S/3	5S/3	5S RNA 3	85	91	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_Fl	Fl	Stipule flecking	91	91	Marker			0	
+PsWeeden2005_6	6	0	92	PsWeeden2005_6_cDNA289/2	cDNA289/2		91	92	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_cMH58	cMH58		0	16	cDNA			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Sod	Sod	Cu/Zn superoxide dismutase	105	105	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Sym 29	Sym 29	Serine-threonine receptor kinase	106	106	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Gal2	Gal2	beta-galactosidase 2	114	114	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_cDNA148/1	cDNA148/1		114	121	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Lectin	Lectin		121	121	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Tkp	Tkp	EPSP,Plastid-specific transketolase	124	124	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_D8B	D8B	Metallothionein-like protein	125	125	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_RCA	RCA	Ribulose bisphosphate activase	127	127	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Rpl 15S	Rpl 15S	40S ribosomal protein 15	16	16	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pgmc	Pgmc	Cytosol-specific phosphoglucomutase	20	20	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Fk1	Fk1	Fructokinase 1	24	24	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pgdp	Pgdp	Plastid-specific 6-phosphogluconate dehydrogenase	27	27	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_CD7/3	CD7/3	Heat-shock protein 70	27	32	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pep3	Pep3	Peptidase 3	32	32	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pep4	Pep4	Peptidase 4	32	44	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Rrn2	Rrn2	45S ribosomal array 2	44	44	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Map kinase	Map kinase	MAP kinase	44	58	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Sym13	Sym13		44	58	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Gsc1	Gsc1	Cytosolic-specific glutamine synthetase	58	58	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_cDNA228	cDNA228		58	65	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_cDNA38a	cDNA38a		82	87	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Cab1	Cab1	Chlorophyll a/b-binding protein type 1	65	65	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Q500	Q500		67	67	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_PRYB2	PRYB2	Aspartate transcarbamoylase	68	68	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Skdh	Skdh	,Oh,Shikimic dehydrogenase	69	69	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Cab	Cab	Chlorophyll a/b binding protein sequence	69	71	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_O18735	O18735	Unknown protein	71	71	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Hsp18	Hsp18	Heat-shock protein	72	72	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_cDNA136	cDNA136		72	78	EST			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Est2	Est2	Esterase 2	78	78	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Rms4	Rms4	Max2,More axillary growth gene	78	82	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_N96	N96	Ubiquitin-like protein 12	78	82	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Aair	Aair	Acetohydroxyacid isomeroreductase	82	82	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pbg	Pbg	Porphobilinogen deaminase	82	87	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Aatm	Aatm	Mitochondrial-specific aspartate aminotransferase	87	87	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Dimin	Dimin	Diminuto	90	90	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_P694	P694	3 beta glucosidase,Endo 1	90	92	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_TPPC	TPPC	Thiol protease C	92	92	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Aldo	Aldo	6-bisphosphate aldolase,Plastid-specific fructose 1	95	95	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Ivdh	Ivdh	 Lethal leafspot,Isovaleryl-CoA dehydrogenase	96	96	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_I7	I7	Cold-acclimatization protein	97	97	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Apx	Apx	Ascorbate peroxidase	98	98	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Amy	Amy	beta-amylase	100	100	Marker			0	
+PsWeeden2005_7	7	0	127	PsWeeden2005_7_Pao	Pao	Pheophorbide a monooxygenase	104	104	Marker			0	

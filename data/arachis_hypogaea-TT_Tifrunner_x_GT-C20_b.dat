@@ -1,0 +1,341 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	feature_dbxref_name	feature_dbxref_url	is_landmark	feature_attributes
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB100	GNB100		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB76	GNB76		5.6	5.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GM2084	GM2084		8.4	8.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_Ah2AC3F07-2	Ah2AC3F07-2	AC3F07-2	10.1	10.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB320-2	GNB320-2		11.7	11.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB629	GNB629		13.2	13.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_TSWV 2-1	TSWV 2-1	qF2TSWV1	13.2	14.7	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_Ah3TC31G11-1	Ah3TC31G11-1	TC31G11-1	14.7	14.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GA161	GA161		16.9	16.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_TSWV 2-2	TSWV 2-2	qF2TSWV2	16.9	23.9	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_Ah2TC7H11-2	Ah2TC7H11-2	TC7H11-2	19.9	19.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB154	GNB154		23.9	23.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_Ah3TC31G11-2	Ah3TC31G11-2	TC31G11-2	50.5	50.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GNB817-1	GNB817-1		55.6	55.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG1	LG1	0	55.8	TT_Tifrunner_x_GT-C20_b_LG1_GM2411	GM2411		55.8	55.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_PM377	PM377		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah3TC41C11	Ah3TC41C11	TC41C11	5	5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GA37	GA37		11.3	11.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB877	GNB877		13.4	13.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GA21	GA21		15.6	15.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB523-1	GNB523-1		17	17	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB329	GNB329		20.5	20.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah2TC9C06	Ah2TC9C06	TC9C06	21.4	21.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah1TC4C11	Ah1TC4C11	TC4C11	21.5	21.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah2TC11A04	Ah2TC11A04	TC11A04	24.2	24.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB87	GNB87		27	27	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB736	GNB736		30.4	30.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GNB1076	GNB1076		32.4	32.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah2TC7C06	Ah2TC7C06	TC7C06	35.3	35.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah3TC31H06	Ah3TC31H06	TC31H06	45.2	45.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah2AC2H11	Ah2AC2H11	AC2H11	46.3	46.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GM2337	GM2337		49.7	49.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Thrips 1-2	Thrips 1-2	qF2TPS2	49.7	56.5	QTL_insect			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_TSWV 2-10	TSWV 2-10	qF2TSWV6	49.7	56.5	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Late and Early leaf spot 1-22	Late and Early leaf spot 1-22	qF2LS7	49.7	56.5	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah3TC42A02	Ah3TC42A02	TC42A02	56.5	56.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_Ah1TC3H07	Ah1TC3H07	TC3H07	72.5	72.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG10	LG10	0	84.4	TT_Tifrunner_x_GT-C20_b_LG10_GM1490	GM1490		84.4	84.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_pPGPseq2G4-2	pPGPseq2G4-2	seq2G4-2	0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_pPGPseq2G4-1	pPGPseq2G4-1	seq2G4-1	3.7	3.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_TSWV 2-12	TSWV 2-12	qF2TSWV7	3.7	7.2	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_Late and Early leaf spot 1-27	Late and Early leaf spot 1-27	qF2LS8	3.7	7.2	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM499	PM499		7.2	7.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GNB317-1	GNB317-1		14.3	14.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_Ah26-1	Ah26-1		17.5	17.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GNB218	GNB218		22.8	22.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_AHGS0357	AHGS0357		26.7	26.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GNB580	GNB580		28.7	28.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_Ah2AC2C05	Ah2AC2C05	AC2C05	32	32	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_Late and Early leaf spot 1-31	Late and Early leaf spot 1-31	qF2LS9	32	34.7	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GNB1040	GNB1040		33.4	33.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM200	PM200		34.7	34.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_pPGPseq1B9	pPGPseq1B9	seq1B9	37.5	37.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM402	PM402		39.3	39.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_Ah26-2	Ah26-2		42.3	42.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GNB216	GNB216		48.2	48.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_GM1598	GM1598		60.2	60.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM32	PM32		64.7	64.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM73	PM73		66.2	66.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG11	LG11	0	73.2	TT_Tifrunner_x_GT-C20_b_LG11_PM425	PM425		73.2	73.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GNB486	GNB486		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GM2289	GM2289		11.8	11.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ah1TC3B04	Ah1TC3B04	TC3B04	19.1	19.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ah2TC7A02	Ah2TC7A02	TC7A02	23.5	23.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GM1713	GM1713		31.4	31.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ah2TC9F10-1	Ah2TC9F10-1	TC9F10-1	35.2	35.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GM1901	GM1901		37.6	37.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ad92L5	Ad92L5		44.8	44.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GM2571	GM2571		50.6	50.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ah1TC6H03-2	Ah1TC6H03-2	TC6H03-2	55.7	55.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ad90F2	Ad90F2		60.2	60.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GNB2	GNB2		70	70	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_TSWV 2-15	TSWV 2-15	qF2TSWV8	70	81.4	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Late and Early leaf spot 1-35	Late and Early leaf spot 1-35	qF2LS10	70	81.4	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_AHS0116	AHS0116		81.4	81.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_Ah1TC1E05	Ah1TC1E05	TC1E05	94.3	94.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG12	LG12	0	104.9	TT_Tifrunner_x_GT-C20_b_LG12_GM1628	GM1628		104.9	104.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_IPAHM108-1	IPAHM108-1		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_Ah1TC4H07	Ah1TC4H07		11.3	11.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_AHGS0230	AHGS0230		20.5	20.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_GM2589	GM2589		24.4	24.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_GM1959	GM1959		28.3	28.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_AHGS0202	AHGS0202		39.5	39.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_GM1445	GM1445		49.5	49.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG13	LG13	0	76.3	TT_Tifrunner_x_GT-C20_b_LG13_AHS2312	AHS2312		76.3	76.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_GA7x10CF	GA7x10CF		0	0	TRAP			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_GA28x3CF	GA28x3CF		1	1	TRAP			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_Ah1TC1E06-1	Ah1TC1E06-1		21.1	21.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_Ah2TC9B12	Ah2TC9B12		29.8	29.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_GA27	GA27		33.3	33.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_GM1996	GM1996		36.5	36.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_Ah-590	Ah-590		43.4	43.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_Ah2TC11B04-2	Ah2TC11B04-2		52.5	52.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG14	LG14	0	66.1	TT_Tifrunner_x_GT-C20_b_LG14_GM2574	GM2574		66.1	66.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GNB317-2	GNB317-2		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GA166	GA166		27.7	27.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GNB887	GNB887		29.9	29.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GNB380	GNB380		36.9	36.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GNB613	GNB613		40	40	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_Ah1TC4F12	Ah1TC4F12		45.9	45.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GA8	GA8		51.1	51.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG15	LG15	0	75.4	TT_Tifrunner_x_GT-C20_b_LG15_GNB99	GNB99		75.4	75.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_Ah2TC9F04	Ah2TC9F04		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_GM2196	GM2196		20.2	20.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_pPGPseq2D12B	pPGPseq2D12B		34.2	34.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_Ai121G16	Ai121G16		42.3	42.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_Ah3TC38D06-2	Ah3TC38D06-2		52.8	52.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG16	LG16	0	83.8	TT_Tifrunner_x_GT-C20_b_LG16_AHS1855	AHS1855		83.8	83.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG17	LG17	0	66.4	TT_Tifrunner_x_GT-C20_b_LG17_GM1821	GM1821		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG17	LG17	0	66.4	TT_Tifrunner_x_GT-C20_b_LG17_pPGPseq2F5	pPGPseq2F5		17.7	17.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG17	LG17	0	66.4	TT_Tifrunner_x_GT-C20_b_LG17_GM1655	GM1655		42	42	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG17	LG17	0	66.4	TT_Tifrunner_x_GT-C20_b_LG17_AS1R12A06	AS1R12A06		47.4	47.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG17	LG17	0	66.4	TT_Tifrunner_x_GT-C20_b_LG17_GM1985	GM1985		66.4	66.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_AHGS0695	AHGS0695		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Ah1TC2A02	Ah1TC2A02	TC2A02	15.5	15.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Ah1TC5D06	Ah1TC5D06	TC5D06	17.9	17.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB136	GNB136		20.6	20.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GM2450	GM2450		32.3	32.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB1112	GNB1112		35.2	35.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB904	GNB904		38.5	38.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Late and Early leaf spot 1-36	Late and Early leaf spot 1-36	qF2LS11	38.5	40.9	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB625	GNB625		40.9	40.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_RN26G9	RN26G9		42.8	42.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GM1047	GM1047		44.1	44.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB970	GNB970		45.3	45.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Ah1TC1D02	Ah1TC1D02	TC1D02	46.3	46.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB451	GNB451		47.3	47.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_AHGS0993	AHGS0993		48.2	48.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB377	GNB377		49.3	49.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GM2792	GM2792		49.8	49.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB159	GNB159		51.6	51.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Late and Early leaf spot 1-37	Late and Early leaf spot 1-37	qF2LS12	51.6	54.6	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB981	GNB981		53.3	53.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB335-1	GNB335-1		54.6	54.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_RM13A12	RM13A12		56.3	56.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GM2359	GM2359		57.2	57.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_Ah-671	Ah-671		62.2	62.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GNB695	GNB695		65.8	65.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_GM2839	GM2839		69.1	69.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG18	LG18	0	77.7	TT_Tifrunner_x_GT-C20_b_LG18_AHS1684	AHS1684		77.7	77.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_PM179	PM179		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB652-1	GNB652-1		6.3	6.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GM1878	GM1878		19.5	19.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GM1577	GM1577		23.7	23.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_pPGSseq10D4	pPGSseq10D4		25.1	25.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB901-2	GNB901-2		28.3	28.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_Ah1TC6E01	Ah1TC6E01		29.6	29.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB703-1	GNB703-1		31.4	31.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB533-1	GNB533-1		34.8	34.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB616	GNB616		36.6	36.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GA32	GA32		37.5	37.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB827	GNB827		38.6	38.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_AHGS0599	AHGS0599		40.2	40.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_Ah1TC3A12	Ah1TC3A12		41.5	41.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB983	GNB983		44.6	44.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GNB138	GNB138		52	52	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GM1049	GM1049		59.8	59.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG19	LG19	0	81.3	TT_Tifrunner_x_GT-C20_b_LG19_GA65	GA65		81.3	81.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_Ad95D7	Ad95D7		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_Ah1TC3B05-2	Ah1TC3B05-2	TC3B05-2	21.8	21.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_Ah1TC4G10-1	Ah1TC4G10-1	TC4G10-1	26.5	26.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_STS20-1	STS20-1		28.3	28.3	STS			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_pPGSseq15C10	pPGSseq15C10	seq15C10	39.5	39.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM1076-2	GM1076-2		51.5	51.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM1254	GM1254		58.4	58.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM2744	GM2744		63.3	63.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_TSWV 2-3	TSWV 2-3	qF2TSWV3	63.3	71.2	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_Late and Early leaf spot 1-4	Late and Early leaf spot 1-4	qF2LS1	63.3	71.2	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM2745	GM2745		68	68	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_pPGPseq5D5	pPGPseq5D5	seq5D5	71.2	71.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM2067	GM2067		79.2	79.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM2156	GM2156		87.3	87.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_pPGPseq2E6	pPGPseq2E6	seq2E6	90.4	90.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM2557	GM2557		93.5	93.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_AS1RN13D04	AS1RN13D04	RN13D04	95.6	95.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG2	LG2	0	100.7	TT_Tifrunner_x_GT-C20_b_LG2_GM1953	GM1953		100.7	100.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_AHGS0147	AHGS0147		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_Ah3TC41A10	Ah3TC41A10		7.7	7.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_Ad90K4	Ad90K4		10.8	10.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_GNB742	GNB742		16.8	16.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_Ah1TC4G10-2	Ah1TC4G10-2		20.5	20.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_GNB519	GNB519		25	25	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_GM1076-1	GM1076-1		27.8	27.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_PM358	PM358		29.3	29.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_Ah3TC19B07	Ah3TC19B07		30.8	30.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_Ah2TC9H08	Ah2TC9H08		32.5	32.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_AHGS0151	AHGS0151		35.2	35.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG20	LG20	0	40.2	TT_Tifrunner_x_GT-C20_b_LG20_IPAHM123-2	IPAHM123-2		40.2	40.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG21	LG21	0	69.4	TT_Tifrunner_x_GT-C20_b_LG21_Ah1TC5C05	Ah1TC5C05		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG21	LG21	0	69.4	TT_Tifrunner_x_GT-C20_b_LG21_GM2106	GM2106		24	24	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG21	LG21	0	69.4	TT_Tifrunner_x_GT-C20_b_LG21_GNB41-1	GNB41-1		38.3	38.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG21	LG21	0	69.4	TT_Tifrunner_x_GT-C20_b_LG21_AHS0970	AHS0970		69.4	69.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_Ah3TC38D06-1	Ah3TC38D06-1		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_GM2063	GM2063		13.1	13.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_PM210	PM210		21.3	21.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_Ai119G12	Ai119G12		27.3	27.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_AHGS0369	AHGS0369		31.7	31.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_AHGS0798	AHGS0798		35.5	35.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_Ah3TC24B05	Ah3TC24B05		38.8	38.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_GNB523-2	GNB523-2		41.2	41.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_Ah1TC4F10-1	Ah1TC4F10-1		46.3	46.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_GM2444	GM2444		50.2	50.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_GM2831	GM2831		51.8	51.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_Ah2AC2C02	Ah2AC2C02		60.2	60.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG3	LG3	0	66.4	TT_Tifrunner_x_GT-C20_b_LG3_AHGS0278	AHGS0278		66.4	66.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM1961	GM1961		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_AHS2567a	AHS2567a		5.8	5.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah1TC3G01	Ah1TC3G01		15.4	15.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah2AC2C12	Ah2AC2C12		18.6	18.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ai119H15	Ai119H15		20.4	20.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_IPAHM606	IPAHM606		24.1	24.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_IPAHM177	IPAHM177		25.3	25.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM2689	GM2689		28.5	28.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM2690	GM2690		30	30	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_PM505	PM505		31.1	31.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_IPAHM123-1	IPAHM123-1		32.4	32.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GNB374-2	GNB374-2		33.6	33.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM1986	GM1986		34.8	34.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GNB371-1	GNB371-1		37.7	37.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GNB335-2	GNB335-2		39.8	39.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM1760	GM1760		41.2	41.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah1TC6H03-1	Ah1TC6H03-1		42.4	42.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah2TC9F10-2	Ah2TC9F10-2		46.4	46.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah3TC21D06	Ah3TC21D06		47.8	47.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_Ah3TC20B05	Ah3TC20B05		50.3	50.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_GM1798	GM1798		57.8	57.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_AHS2567b	AHS2567b		66.5	66.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG4	LG4	0	68.5	TT_Tifrunner_x_GT-C20_b_LG4_PM188	PM188		68.5	68.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Ah1TC1B02	Ah1TC1B02	TC1B02	0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Late and Early leaf spot 1-6	Late and Early leaf spot 1-6	qF2LS2	0	12	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Ah1TC4A02	Ah1TC4A02	TC4A02	12	12	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GNB38	GNB38		18.7	18.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Ah2TC11A02	Ah2TC11A02	TC11A02	21.8	21.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Ah2TC7H11-1	Ah2TC7H11-1	TC7H11-1	31	31	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_IPAHM23	IPAHM23		36	36	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GNB320-1	GNB320-1		41.4	41.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GA131	GA131		44.1	44.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_Ah2AC3F07-1	Ah2AC3F07-1	AC3F07-1	52.2	52.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_AHS2037	AHS2037		58.3	58.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GM1742	GM1742		63.9	63.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GM1573	GM1573		66.5	66.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GM2032	GM2032		70.8	70.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_GM2165	GM2165		74.4	74.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG5	LG5	0	98.1	TT_Tifrunner_x_GT-C20_b_LG5_AHS0161	AHS0161		98.1	98.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_AHS1943	AHS1943		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_AS1RN17F12	AS1RN17F12	RN17F12	6.5	6.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah1TC3H02	Ah1TC3H02	TC3H02	10.7	10.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC27H12	Ah3TC27H12	TC27H12	16.5	16.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC30D04	Ah3TC30D04	TC30D04	22.6	22.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GNB374-1	GNB374-1		40.6	40.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GA42-3	GA42-3		45.9	45.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC16A10-1	Ah3TC16A10-1	TC16A10-1	52.7	52.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3	Ah3		53.7	53.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC16A10-2	Ah3TC16A10-2	TC16A10-2	53.9	53.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC23F04	Ah3TC23F04	TC23F04	62.8	62.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC23C08-2	Ah3TC23C08-2	TC23C08-2	64.1	64.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah2TC7H02	Ah2TC7H02	TC7H02	66.4	66.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_pPGSseq13A7	pPGSseq13A7	seq13A7	69.1	69.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GNB41-2	GNB41-2		70.2	70.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GNB837	GNB837		74	74	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_AHGS0108	AHGS0108		75.2	75.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GA42-1	GA42-1		75.2	75.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah1TC1A08	Ah1TC1A08	TC1A08	77.1	77.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GNB652-2	GNB652-2		79	79	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GNB619	GNB619		80.6	80.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Late and Early leaf spot 1-7	Late and Early leaf spot 1-7	qF2LS3	80.6	83.9	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GM2724	GM2724		83.9	83.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_AHGS0138	AHGS0138		86.1	86.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GA7x10AF	GA7x10AF		101	101	TRAP			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GA42-2	GA42-2		105.5	105.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_Ah3TC23C08-1	Ah3TC23C08-1	TC23C08-1	122	122	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG6	LG6	0	124.2	TT_Tifrunner_x_GT-C20_b_LG6_GA147-2	GA147-2		124.2	124.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_Ah1TC1E06-2	Ah1TC1E06-2		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_Ah2TC11F12-2	Ah2TC11F12-2		17	17	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_AHGS0132	AHGS0132		20	20	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GM2528	GM2528		22.2	22.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_Ad91O22	Ad91O22		29.1	29.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB675	GNB675		35.1	35.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB649	GNB649		36.1	36.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB665	GNB665		39	39	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GM2402	GM2402		41.2	41.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_Ah4-4	Ah4-4		45	45	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GM1726	GM1726		46.3	46.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_pPGSseq19G7	pPGSseq19G7		46.7	46.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB643	GNB643		50	50	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_PM15	PM15		51.7	51.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GM2215	GM2215		54.2	54.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_Ah1TC0A01	Ah1TC0A01		56.4	56.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB167	GNB167		58.4	58.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB817-2	GNB817-2		61.5	61.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB716	GNB716		64.4	64.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB324	GNB324		70.7	70.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GNB284	GNB284		81.3	81.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.A	LG7.A	0	86.4	TT_Tifrunner_x_GT-C20_b_LG7.A_GM2027	GM2027		86.4	86.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.B	LG7.B	0	37.5	TT_Tifrunner_x_GT-C20_b_LG7.B_Ah3TC31H02	Ah3TC31H02		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.B	LG7.B	0	37.5	TT_Tifrunner_x_GT-C20_b_LG7.B_GM1954	GM1954		13.9	13.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG7.B	LG7.B	0	37.5	TT_Tifrunner_x_GT-C20_b_LG7.B_Ah1TC4G02-2	Ah1TC4G02-2		37.5	37.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_GM1843	GM1843		0	0	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_PM50	PM50		10.5	10.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_PM308	PM308		13.6	13.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_PM36	PM36		26.1	26.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_Late and Early leaf spot 1-8	Late and Early leaf spot 1-8	qF2LS4	26.1	29.2	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_GM2137	GM2137		29.2	29.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_Ai119F10	Ai119F10		34.6	34.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_Ah1TC5D01	Ah1TC5D01	TC5D01	39.3	39.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_IPAHM73	IPAHM73		41.4	41.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_GNB901-1	GNB901-1		50.1	50.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_AHGS0729	AHGS0729		53	53	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_pPGSseq19D6	pPGSseq19D6	seq19D6	56.8	56.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_GA147-1	GA147-1		66	66	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG8	LG8	0	68.7	TT_Tifrunner_x_GT-C20_b_LG8_GM1555-1	GM1555-1		68.7	68.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GA28x3AF	GA28x3AF		0	0	TRAP			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GNB554	GNB554		1.9	1.9	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM890	GM890		7	7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_EM142	EM142		8.1	8.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Ad92O23	Ad92O23		15.8	15.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_AHGS0347	AHGS0347		26.6	26.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Thrips 1-1	Thrips 1-1	qF2TPS1	26.6	34.4	QTL_insect			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_TSWV 2-6	TSWV 2-6	qF2TSWV4	26.6	34.4	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Late and Early leaf spot 1-9	Late and Early leaf spot 1-9	qF2LS5	26.6	34.4	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Ah3TC29C07	Ah3TC29C07	TC29C07	29.7	29.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GNB155	GNB155		31.5	31.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_IPAHM108-2	IPAHM108-2		34.4	34.4	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_PM652	PM652		36.3	36.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GNB533-2	GNB533-2		38.2	38.2	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_AHGS0134	AHGS0134		38.7	38.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM2638	GM2638		40.5	40.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM2637	GM2637		41.6	41.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_pPGSseq18C5	pPGSseq18C5	seq18C5	43.1	43.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GNB352	GNB352		44.1	44.1	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM2246	GM2246		45	45	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM2480	GM2480		46.7	46.7	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_IPAHM105	IPAHM105		47.8	47.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM1062	GM1062		50.8	50.8	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_GM2313	GM2313		56.3	56.3	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Ah3TC39F01	Ah3TC39F01	TC39F01	61.6	61.6	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Ah1TC5A07	Ah1TC5A07	TC5A07	62.5	62.5	SSR			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_TSWV 2-8	TSWV 2-8	qF2TSWV5	62.5	69	QTL_viral			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Late and Early leaf spot 1-14	Late and Early leaf spot 1-14	qF2LS6	62.5	69	QTL_fungal			0	
+TT_Tifrunner_x_GT-C20_b_LG9	LG9	0	69	TT_Tifrunner_x_GT-C20_b_LG9_Ah2TC7G10	Ah2TC7G10	TC7G10	69	69	SSR			0	

@@ -1,0 +1,294 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	feature_dbxref_name	feature_dbxref_url	is_landmark	feature_attributes
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM1899	GM1899		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_TC3G01c	TC3G01c		17.8	17.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_TC3G01a	TC3G01a		18.8	18.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_pPGSSeq17E01	pPGSSeq17E01	Seq17E01	48.7	48.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM669	GM669		52.3	52.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_Ah3	Ah3		53.8	53.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_Ah490	Ah490		99.5	99.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_pPGSSeq13A07	pPGSSeq13A07	Seq13A07	101.1	101.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_pPGSSeq18G09	pPGSSeq18G09	Seq18G09	101.4	101.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM635b	GM635b		105.6	105.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM635a	GM635a		110.4	110.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM1599	GM1599		113.21	113.21	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_S54	S54		145.51	145.51	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM2724b	GM2724b		155.41	155.41	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM1771	GM1771		164.21	164.21	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM1971a	GM1971a		165.51	165.51	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhI	LG_AhI	0	178.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhI_GM2724	GM2724		178.21	178.21	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_RNoX681	RNoX681		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_pPGPSeq2G04	pPGPSeq2G04	Seq2G04	2.17	2.17	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_IPAHM596	IPAHM596		24.3	24.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_AC2C05	AC2C05		26.97	26.97	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_PM73	PM73		38.17	38.17	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_Seq11G03	Seq11G03		42.36	42.36	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_Ah26	Ah26		43.8	43.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_pPGPSeq1B09	pPGPSeq1B09	Seq1B09	43.8	43.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_TC4F12	TC4F12		46.7	46.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_IPAHM254	IPAHM254		47.2	47.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_GM695	GM695		48.6	48.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_PM499	PM499		48.6	48.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_pPGSSeq18E07	pPGSSeq18E07	Seq18E07	56.9	56.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_TC1E01	TC1E01		63.5	63.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_RI1F06	RI1F06		64.3	64.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhII	LG_AhII	0	96.21	TT_AhConsensus_GautamiPandey2012_a_LG_AhII_GM1469	GM1469		96.21	96.21	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_pPGSSeq9H08b	pPGSSeq9H08b	Seq9H08b	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_TC1E06	TC1E06		10.4	10.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_PM3	PM3		47.18	47.18	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_pPGSSeq19G07	pPGSSeq19G07	Seq19G07	62.58	62.58	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM1717	GM1717		82.18	82.18	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM1311	GM1311		83.26	83.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_PM434	PM434		85.27	85.27	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_pPGSSeq18A5	pPGSSeq18A5	Seq18A5	85.99	85.99	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM745	GM745		89.39	89.39	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_pPGSSeq15F12	pPGSSeq15F12	Seq15F12	91.89	91.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_gi-4925	gi-4925		101.69	101.69	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_IPAHM288	IPAHM288		113.39	113.39	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_PM238	PM238		113.39	113.39	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_TC2C07	TC2C07		113.79	113.79	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_TC11F12	TC11F12		119.09	119.09	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_pPGSSeq19D09	pPGSSeq19D09	Seq19D09	120.27	120.27	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM618	GM618		133.19	133.19	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM2528	GM2528		134.92	134.92	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM1108	GM1108		135.42	135.42	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM2347	GM2347		148.28	148.28	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM1949	GM1949		161.37	161.37	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_TC4G02	TC4G02		172.12	172.12	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM1954	GM1954		177.42	177.42	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_TC7E04	TC7E04		190.72	190.72	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_IPAHM103	IPAHM103		195.22	195.22	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM2007	GM2007		206.53	206.53	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM2060	GM2060		214.66	214.66	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIII	LG_AhIII	0	225.93	TT_AhConsensus_GautamiPandey2012_a_LG_AhIII_GM2325	GM2325		225.93	225.93	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_IPAHM287	IPAHM287		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_pPGSSeq19D06	pPGSSeq19D06	Seq19D06	20.7	20.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_GM723b	GM723b		28.5	28.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_pPGSSeq19H03	pPGSSeq19H03	Seq19H03	33.4	33.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_PM183	PM183		57.3	57.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_PM418	PM418		58.5	58.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_PMc348	PMc348		79.8	79.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_TC2B09	TC2B09		103.8	103.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_GM657	GM657		110.27	110.27	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_IPAHM136	IPAHM136		132.07	132.07	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_GM723	GM723		134.27	134.27	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_pPGSSeq9G05	pPGSSeq9G05	Seq9G05	178.47	178.47	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_TC1D02	TC1D02		210.57	210.57	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_TC3E05	TC3E05		241.57	241.57	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_GM2032	GM2032		271.97	271.97	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIV	LG_AhIV	0	293.37	TT_AhConsensus_GautamiPandey2012_a_LG_AhIV_GM1483	GM1483		293.37	293.37	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM1416	GM1416		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM2584	GM2584		3.9	3.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_TC11H06	TC11H06		44.6	44.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_gi-832	gi-832		73.25	73.25	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq17F06	pPGSSeq17F06	Seq17F06	79.2	79.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_Ah4-04	Ah4-04		111.8	111.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_TC3A12	TC3A12		134.5	134.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM630	GM630		135.4	135.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq10D04	pPGSSeq10D04	Seq10D04	141	141	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_RN6F05	RN6F05		141.6	141.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GA35	GA35		143.3	143.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM633	GM633		143.3	143.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_PM179	PM179		143.5	143.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_TC2D08	TC2D08		144.4	144.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_TC6E01	TC6E01		174.6	174.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_IPAHM356	IPAHM356		176	176	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_PM45	PM45		181.1	181.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq19E09	pPGSSeq19E09	Seq19E09	183.1	183.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM1577	GM1577		184.7	184.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_PM36	PM36		184.7	184.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq2F10	pPGSSeq2F10	Seq2F10	186.6	186.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM667	GM667		187.25	187.25	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_TC3G05	TC3G05		187.6	187.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM632	GM632		195.5	195.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq19D01	pPGSSeq19D01	Seq19D01	215.2	215.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_pPGSSeq18G01	pPGSSeq18G01	Seq18G01	223.7	223.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_GM1571	GM1571		229.1	229.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhV	LG_AhV	0	233	TT_AhConsensus_GautamiPandey2012_a_LG_AhV_IPAHM167	IPAHM167		233	233	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_IPAHM171	IPAHM171		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_pPGSSeq9H08a	pPGSSeq9H08a	Seq9H08a	8	8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_S108	S108		15.3	15.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_TC1A01	TC1A01		15.7	15.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_PM377	PM377		25.5	25.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_TC1A02	TC1A02		39.4	39.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_GM623	GM623		42.3	42.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_RN34H10	RN34H10		42.6	42.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_IPAHM245	IPAHM245		48.7	48.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_TC11A04	TC11A04		62.3	62.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_IPAHM509	IPAHM509		77.55	77.55	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_TC7C06	TC7C06		81.15	81.15	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_Ah4-101	Ah4-101		104.75	104.75	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_GM2536	GM2536		114.35	114.35	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_GM1573	GM1573		147.15	147.15	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVI	LG_AhVI	0	157.95	TT_AhConsensus_GautamiPandey2012_a_LG_AhVI_IPAHM689	IPAHM689		157.95	157.95	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_PM427	PM427		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_PM375	PM375		7	7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_LG111	LG111		8.2	8.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_Ap40	Ap40		8.8	8.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM736	GM736		10	10	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM629	GM629		10.8	10.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_S109	S109		14.5	14.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM2246	GM2246		17.2	17.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1897	GM1897		23.1	23.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1867	GM1867		32.1	32.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1979	GM1979		33.01	33.01	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM955	GM955		42.61	42.61	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM2313	GM2313		52.36	52.36	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM2637	GM2637		55.36	55.36	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM2638	GM2638		55.76	55.76	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1919	GM1919		75.66	75.66	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_pPGSSeq17G06	pPGSSeq17G06	Seq17G06	92.66	92.66	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_pPGSSeq3H06	pPGSSeq3H06	Seq3H06	92.76	92.76	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1135	GM1135		97.86	97.86	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_IPAHM108	IPAHM108		99.36	99.36	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_pPGSSeq18C05	pPGSSeq18C05	Seq18C05	99.36	99.36	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_IPAHM108B	IPAHM108B		101.81	101.81	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1907	GM1907		110.51	110.51	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_S118	S118		126.63	126.63	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_IPAHM659	IPAHM659		130.51	130.51	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_TC3H07	TC3H07		145.31	145.31	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_RN32H4	RN32H4		151.29	151.29	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_GM1076	GM1076		173.89	173.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_IPAHM290	IPAHM290		174.79	174.79	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_PM204	PM204		177.19	177.19	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVII	LG_AhVII	0	198.09	TT_AhConsensus_GautamiPandey2012_a_LG_AhVII_ML4D02	ML4D02		198.09	198.09	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_GM698	GM698		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_pPGPSeq8H01	pPGPSeq8H01	Seq8H01	17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_pPGPSeq3A06	pPGPSeq3A06	Seq3A06	23.1	23.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM177	IPAHM177		57	57	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM219	IPAHM219		62.9	62.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM606	IPAHM606		63.8	63.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_PM419	PM419		64.2	64.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM229	IPAHM229		64.5	64.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_GM2689	GM2689		64.5	64.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_GM2746	GM2746		64.5	64.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM123	IPAHM123		64.8	64.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_PM721	PM721		65.4	65.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_GM660	GM660		66.3	66.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_GM679	GM679		68	68	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_IPAHM406	IPAHM406		73.5	73.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_TC9F10	TC9F10		76.6	76.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_TC6H03	TC6H03		77.4	77.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_PM733a	PM733a		79.2	79.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII	LG_AhVIII	0	105.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhVIII_TC3G01b	TC3G01b		105.9	105.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_pPGPSeq2B09	pPGPSeq2B09	Seq2B09	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_TC5A06	TC5A06		11.5	11.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_pPGSSeq14H06	pPGSSeq14H06	Seq14H06	16.2	16.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_GM694	GM694		17.9	17.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_PM436	PM436		21.3	21.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_Lec1	Lec1		23.2	23.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_gi1107	gi1107		24.3	24.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_pPGSSeq7G02	pPGSSeq7G02	Seq7G02	39.3	39.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhIX	LG_AhIX	0	59.8	TT_AhConsensus_GautamiPandey2012_a_LG_AhIX_GM2120	GM2120		59.8	59.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM2444	GM2444		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM1991	GM1991		14.2	14.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_TC9B08	TC9B08		25.42	25.42	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_IPAHM165	IPAHM165		25.48	25.48	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_pPGSSeq19A05	pPGSSeq19A05	Seq19A05	26.38	26.38	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_TC9F04	TC9F04		38.43	38.43	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_IPAHM524	IPAHM524		46.33	46.33	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM1538	GM1538		51.23	51.23	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_TC4D09	TC4D09		54.93	54.93	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_RM2C1	RM2C1		67.23	67.23	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_TC9H08	TC9H08		86.63	86.63	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM2513	GM2513		89.54	89.54	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM2407	GM2407		132.87	132.87	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_TC1B02	TC1B02		168.47	168.47	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM1863	GM1863		212.47	212.47	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhX	LG_AhX	0	256.17	TT_AhConsensus_GautamiPandey2012_a_LG_AhX_GM2089	GM2089		256.17	256.17	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_pPGPSeq3B05	pPGPSeq3B05	Seq3B05	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM1992	GM1992		4.5	4.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM2350	GM2350		22.1	22.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM2724a	GM2724a		25.4	25.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM1971b	GM1971b		28.96	28.96	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM2233b	GM2233b		35.89	35.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_Ah193	Ah193		66.79	66.79	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_TC4H02	TC4H02		74.29	74.29	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM1992a	GM1992a		74.89	74.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM672	GM672		74.89	74.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_TC2D06	TC2D06		75.59	75.59	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_S1	S1		100.54	100.54	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM613	GM613		102.84	102.84	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_pPGSSeq13A10	pPGSSeq13A10	Seq13A10	112.64	112.64	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXI	LG_AhXI	0	135.74	TT_AhConsensus_GautamiPandey2012_a_LG_AhXI_GM2062	GM2062		135.74	135.74	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_pPGPSeq3E10	pPGPSeq3E10	Seq3E10	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_RM11H01	RM11H01		29	29	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_TC11B04	TC11B04		29.5	29.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_GM647	GM647		53.6	53.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_TC7H11	TC7H11		70.4	70.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_GM2605	GM2605		111.5	111.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_TC4G10	TC4G10		116.2	116.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXII	LG_AhXII	0	158.9	TT_AhConsensus_GautamiPandey2012_a_LG_AhXII_GM692	GM692		158.9	158.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_PM346	PM346		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM1911	GM1911		53	53	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC9B07	TC9B07		53.1	53.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM1291	GM1291		63.66	63.66	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC5D06	TC5D06		69.56	69.56	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_PM733b	PM733b		81.26	81.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM1009	GM1009		88.06	88.06	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_PM675	PM675		96.26	96.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC4A02	TC4A02		96.26	96.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_IPAHM23	IPAHM23		97.26	97.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_IPAHM82	IPAHM82		99.06	99.06	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_IPAHM75	IPAHM75		101.06	101.06	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC3B05	TC3B05		119.86	119.86	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_pPGPSeq2C11	pPGPSeq2C11	Seq2C11	124.89	124.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM2259	GM2259		166.19	166.19	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_pPGPSeq19B01	pPGPSeq19B01	Seq19B01	174.89	174.89	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM1878	GM1878		192.59	192.59	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC3E02	TC3E02		220.39	220.39	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_TC3B02	TC3B02		224.79	224.79	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII	LG_AhXIII	0	236.19	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIII_GM1609	GM1609		236.19	236.19	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_pPGPSeq2E06	pPGPSeq2E06	Seq2E06	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM2687	GM2687		33.3	33.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM2688	GM2688		43.3	43.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_pPGPSeq13E09	pPGPSeq13E09	Seq13E09	44.3	44.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM2308	GM2308		44.7	44.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_pPGPSeq16C06	pPGPSeq16C06	Seq16C06	55.4	55.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_RM14E11	RM14E11		58.3	58.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM1996	GM1996		64.1	64.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM626	GM626		71.3	71.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_GM1733	GM1733		90.7	90.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV	LG_AhXIV	0	110	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIV_TC2A02	TC2A02		110	110	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXV	LG_AhXV	0	67.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXV_GM641	GM641		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXV	LG_AhXV	0	67.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXV_GM2602	GM2602		13.8	13.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXV	LG_AhXV	0	67.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXV_GM2603	GM2603		14.5	14.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXV	LG_AhXV	0	67.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXV_Seq16G08	Seq16G08		31.9	31.9	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXV	LG_AhXV	0	67.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXV_TC4E10	TC4E10		67.6	67.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM2050	GM2050		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM1901	GM1901		2.21	2.21	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_RN34A10	RN34A10		5	5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_PM85	PM85		15.2	15.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM1990	GM1990		26.92	26.92	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_pPGPSeq3B08	pPGPSeq3B08	Seq3B08	28.26	28.26	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM1922	GM1922		31.86	31.86	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM1937	GM1937		32.06	32.06	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM1494	GM1494		38.96	38.96	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI	LG_AhXVI	0	51.14	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVI_GM2425	GM2425		51.14	51.14	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_GM1418	GM1418		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_IPAHM105	IPAHM105		22.5	22.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_GM1959	GM1959		24.6	24.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_IPAHM108A	IPAHM108A		26.8	26.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_IPAHM97	IPAHM97		32.7	32.7	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_S11	S11		34.3	34.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII	LG_AhXVII	0	44.1	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVII_GM1445	GM1445		44.1	44.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_TC7A02	TC7A02		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_GM624	GM624		14.5	14.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_pPGSSeq19B12	pPGSSeq19B12	Seq19B12	19.5	19.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_TC9H09	TC9H09		23.1	23.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_pPGSSeq15C10	pPGSSeq15C10	Seq15C10	33.4	33.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_GM1515	GM1515		55.2	55.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_GM2744	GM2744		55.5	55.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_GM2745	GM2745		55.5	55.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_PM69	PM69		59.8	59.8	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_pPGPSeq5D05	pPGPSeq5D05	Seq5D05	73.2	73.2	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII	LG_AhXVIII	0	102.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXVIII_GM2156	GM2156		102.6	102.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_pPGPSeq2D12B	pPGPSeq2D12B	Seq2D12B	0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM2547	GM2547		10.1	10.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM625	GM625		49.5	49.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM2233a	GM2233a		52.5	52.5	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM1971	GM1971		67.4	67.4	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_IPAHM569	IPAHM569		80.1	80.1	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM1021	GM1021		102.3	102.3	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX	LG_AhXIX	0	123.6	TT_AhConsensus_GautamiPandey2012_a_LG_AhXIX_GM1570	GM1570		123.6	123.6	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXX	LG_AhXX	0	6.3	TT_AhConsensus_GautamiPandey2012_a_LG_AhXX_GM2531	GM2531		0	0	SSR			0	
+TT_AhConsensus_GautamiPandey2012_a_LG_AhXX	LG_AhXX	0	6.3	TT_AhConsensus_GautamiPandey2012_a_LG_AhXX_RN3E10	RN3E10		6.3	6.3	SSR			0	

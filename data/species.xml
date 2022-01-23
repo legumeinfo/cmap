@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<!-- This file contains data from CMap (http://gmod.org/wiki/CMap) -->
+<!-- From the LIS data source -->
+<!-- Created on Sun Jan 23 11:56:37 2022 -->
+
+
+<cmap_export>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>medicago_sativa</species_acc>
+    <species_common_name>alfalfa</species_common_name>
+    <species_full_name>Medicago sativa</species_full_name>
+    <species_id>11</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>cicer_arietinum</species_acc>
+    <species_common_name>chickpea</species_common_name>
+    <species_full_name>Cicer arietinum</species_full_name>
+    <species_id>7</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>phaseolus_vulgaris</species_acc>
+    <species_common_name>common bean</species_common_name>
+    <species_full_name>Phaseolus vulgaris</species_full_name>
+    <species_id>8</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>vigna_unguiculata</species_acc>
+    <species_common_name>cowpea</species_common_name>
+    <species_full_name>Vigna unguiculata</species_full_name>
+    <species_id>9</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>lupan</species_acc>
+    <species_common_name>narrow-leaved blue lupine</species_common_name>
+    <species_full_name>Lupinus angustifolius</species_full_name>
+    <species_id>14</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>pisum_sativum</species_acc>
+    <species_common_name>pea</species_common_name>
+    <species_full_name>Pisum sativum</species_full_name>
+    <species_id>10</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>arachis_hypogaea</species_acc>
+    <species_common_name>peanut</species_common_name>
+    <species_full_name>Arachis hypogaea</species_full_name>
+    <species_id>13</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>cajanus_cajan</species_acc>
+    <species_common_name>pigeonpea</species_common_name>
+    <species_full_name>Cajanus cajan</species_full_name>
+    <species_id>6</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>1</display_order>
+    <species_acc>trifolium_repens</species_acc>
+    <species_common_name>white clover</species_common_name>
+    <species_full_name>Trifolium repens</species_full_name>
+    <species_id>12</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>3</display_order>
+    <species_acc>glycine_max</species_acc>
+    <species_common_name>soybean</species_common_name>
+    <species_full_name>Glycine max</species_full_name>
+    <species_id>4</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>4</display_order>
+    <species_acc>lotus_japonicus</species_acc>
+    <species_common_name>lotus</species_common_name>
+    <species_full_name>Lotus japonicus</species_full_name>
+    <species_id>3</species_id>
+  </cmap_species>
+  <cmap_species>
+    <display_order>5</display_order>
+    <species_acc>medicago_truncatula</species_acc>
+    <species_common_name>barrel medic</species_common_name>
+    <species_full_name>Medicago truncatula</species_full_name>
+    <species_id>2</species_id>
+  </cmap_species>
+  <dump_date>Sun Jan 23 11:56:37 2022</dump_date>
+</cmap_export>
