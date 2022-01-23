@@ -2016,7 +2016,7 @@ Directory where output file is to be placed
         my $species_acc = $map_set->{'species_acc'};
         my $file_name
             = join( '-', $species_acc, $map_set_acc );
-        $file_name =~ tr/a-zA-Z0-9-/_/cs;
+        $file_name =~ tr/.a-zA-Z0-9-/_/cs;
         $file_name = "$dir/$file_name.dat";
 
         print $log_fh "Dumping '$species_acc-$map_set_acc' "
