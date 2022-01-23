@@ -1,0 +1,6 @@
+services:
+  cmap:
+    build: .
+    restart: always
+    ports:
+      - "${PORT:-8000}:80"
