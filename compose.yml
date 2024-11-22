@@ -1,6 +1,7 @@
 services:
   cmap:
     build: .
-    restart: always
+    healthcheck:
+      test: GET -d http://localhost:8080/
     ports:
-      - "${PORT:-8000}:80"
+      - "8080:8080"

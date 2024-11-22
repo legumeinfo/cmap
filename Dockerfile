@@ -1,4 +1,4 @@
-FROM ubuntu:20.04 AS deps
+FROM ubuntu:24.04 AS deps
 
 RUN apt update && DEBIAN_FRONTEND=noninteractive apt install -y --no-install-recommends \
   apache2 \
@@ -51,7 +51,10 @@ FROM deps AS final
 # configure httpd
 RUN a2enmod headers rewrite \
   && ln -sf /proc/self/fd/1 /var/log/apache2/access.log \
-  && ln -sf /proc/self/fd/2 /var/log/apache2/error.log
+  && ln -sf /proc/self/fd/2 /var/log/apache2/error.log \
+  && ln -sf /proc/self/fd/1 /var/log/apache2/other_vhosts_access.log \
+  && chown www-data /var/log/apache2 /var/run/apache2 \
+  && echo 'Listen 8080' > /etc/apache2/ports.conf
 
 COPY --from=load /srv/cmap/db/ /srv/cmap/db/
 COPY ./httpd-cmap.conf /etc/apache2/conf-enabled/httpd-cmap.conf
@@ -63,6 +66,8 @@ COPY ./templates ./templates
 # cache_dir
 RUN ln -s /tmp/cmap /srv/cmap/htdocs/tmp
 
+USER www-data
+
 ENTRYPOINT ["apachectl", "-DFOREGROUND"]
 
-EXPOSE 80
+EXPOSE 8080

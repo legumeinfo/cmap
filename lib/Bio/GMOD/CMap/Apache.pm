@@ -461,6 +461,9 @@ End by always setting cookie with current settings.
             -value   => $cookie_value,
             -expires => '+1y',
             -domain  => $cookie_domain,
+            -httponly  => 1,
+            -samesite => 'Strict',
+            -secure  => 1,
             -path    => '/'
         )
     );
